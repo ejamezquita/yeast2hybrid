@@ -1,0 +1,13 @@
+OriginalIndex,Identifier,Coordinate,Family,Common_Name,SubCellular,SubOrganellar,IntensityDiff,SigmaValue,AlphaValue,ReferenceColor,ControlColor
+732,AT2G42400,p01-r16-c13,VOZ,VOZ2,Nucleus,Chromosome,-84.31249999999999,-5.187754101043496,0.0003256330615797907,redish,whiteish
+636,AT1G01720,p01-r14-c13,NAC,ATAF1,Nucleus,"Nucleus, nucleolus; Chromosome",-70.18154761904763,-4.318275599446035,0.001113651415010653,redish,whiteish
+71,AT1G65360,p01-r02-c24,MADS,AGL23,Nucleus,"Nucleus, nucleolus; Chromosome",-67.54166666666667,-4.155843537332102,0.001401240344611295,redish,whiteish
+253,AT4G11880,p01-r06-c14,MADS,AGL14,Nucleus,"Nucleus, nucleolus; Chromosome",51.10714285714286,3.1446261224582206,0.9941441849834917,whiteish,redish
+164,AT2G36990,p01-r04-c21,SIGMA70-like,SOLDAT8,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma; Plastid, chloroplast thylakoid lumen",48.581896551724135,2.989247538297142,0.992705113024227,whiteish,redish
+743,AT2G27990,p01-r16-c24,HB,BLH8,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome",-46.300595238095234,-2.848878906771636,0.008896739941327737,redish,whiteish
+337,AT5G67300,p01-r08-c02,MYB,MYBR1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome",41.056944444444454,2.5262367017699834,0.9859591646735406,whiteish,redish
+387,AT1G71450,p01-r09-c04,AP2-EREBP,FUF1,Nucleus,Chromosome,38.31385869565217,2.3574544412177385,0.9821738932350094,whiteish,redish
+625,AT1G80580,p01-r14-c02,AP2-EREBP,AT1G80580,Nucleus,Chromosome,37.303441295546556,2.2952833869711724,0.9805355990842491,whiteish,redish
+342,AT4G13980,p01-r08-c07,HSF,AT-HSFA5,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome",37.158333333333324,2.2863548837709855,0.9802882675680009,whiteish,redish
+688,AT5G47640,p01-r15-c17,CCAAT,NF-YB2,Nucleus,Chromosome,-35.333333333333336,-2.17406250441556,0.023104315522403503,redish,whiteish
+677,AT5G22570,p01-r15-c06,WRKY,WRKY38,Nucleus,"Nucleus, nucleolus; Chromosome",-34.39583333333332,-2.116378062965854,0.02506813552560886,redish,whiteish

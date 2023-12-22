@@ -1,0 +1,14 @@
+OriginalIndex,Identifier,Coordinate,Family,Common_Name,SubCellular,SubOrganellar,IntensityDiff,SigmaValue,AlphaValue,ReferenceColor,ControlColor
+2218,AT4G00232,p02-r15-c11,GeBP,AT4G00232,Nucleus,"Nucleus, nucleolus; Chromosome",-67.45833333333334,-4.047814479899234,0.0016325349045455478,redish,whiteish
+2231,AT1G77980,p02-r15-c24,MADS,AGL66,Nucleus,"Nucleus, nucleolus; Chromosome",-66.36011904761907,-3.981916503058027,0.0017919918661439785,redish,whiteish
+2075,AT2G01370,p02-r12-c12,GeBP,AT2G01370,Nucleus,"Nucleus, nucleolus",52.349654377880185,3.141223308341006,0.9941159370962636,whiteish,redish
+2087,AT1G19790,p02-r12-c24,SRS,SRS7,Nucleus,Chromosome,-49.97077922077922,-2.9984797089816113,0.00720026209526686,redish,whiteish
+1606,AT1G57560,p02-r02-c23,MYB,MYB50,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome",-47.475,-2.8487213208135804,0.008898722891514723,redish,whiteish
+1554,AT1G19210,p02-r01-c19,AP2-EREBP,ERF017,Nucleus,Chromosome,-46.7790404040404,-2.806960500604314,0.00944009920797902,redish,whiteish
+2278,AT1G77980,p02-r16-c23,MADS,AGL66,Nucleus,"Nucleus, nucleolus; Chromosome",-46.187499999999986,-2.7714653186956757,0.00992606630501651,redish,whiteish
+1826,AT3G28910,p02-r07-c03,MYB,MYB30,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome",45.81195827387559,2.748931064413091,0.9897525129968536,whiteish,redish
+1921,AT5G66320,p02-r09-c02,C2C2-GATA,GATA5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome",42.136160714285715,2.528366074860733,0.9860013834803097,whiteish,redish
+1591,AT1G14580,p02-r02-c08,C2H2,AT1G14580,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome",41.613839285714285,2.497024354167963,0.9853669540658925,whiteish,redish
+1683,AT2G34720,p02-r04-c04,CCAAT,NF-YA4,Nucleus,Chromosome,39.8837850320231,2.393213033711843,0.9830529501505362,whiteish,redish
+1730,AT3G23250,p02-r05-c03,MYB,MYB15,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome",38.98125,2.339056724317312,0.981704001847673,whiteish,redish
+1825,AT3G49850,p02-r07-c02,MYB-related,TRB3,Nucleus,"Nucleus, nucleolus; Chromosome",36.756847319347315,2.2055821936706517,0.9779029559274545,whiteish,redish

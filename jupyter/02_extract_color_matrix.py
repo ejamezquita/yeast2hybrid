@@ -7,7 +7,7 @@ import utils
 import argparse
 
 """
-$ python3 02_extract_color_matrix.py raw mather proc diagnostic 6 1 0 1
+$ python3 02_extract_color_matrix.py raw mather proc diagnostic 6 1
 
 Working with gene p53
 Ready to process ../raw/mather/p53/p53_plate_01.jpg
@@ -37,8 +37,6 @@ def main():
     parser.add_argument('dst', metavar='dst_dir', type=str, help='directory where processed data are located')
     parser.add_argument('diagdst', metavar='diagdst_dir', type=str, help='directory where diagnostic images are stored')
     parser.add_argument('plate_num', metavar='plate_num', type=int, help='Number of plates to process')
-    parser.add_argument('color_check', metavar='color_check', type=int, help='Color chanel to check to rotate')
-    parser.add_argument('check_rotation', metavar='check_rotation', type=int, help='Check if image is rotated before loading')
     parser.add_argument('verbose', metavar='generate_diagnostic', type=int, help='Whether diagnostic images are produced')
     args = parser.parse_args()
 
@@ -46,6 +44,7 @@ def main():
     src = '..' + os.sep + args.src + os.sep
     lsrc = src + args.name + os.sep
     dst = '..' + os.sep + args.dst + os.sep
+    diagdst = '..' + os.sep + args.diagdst + os.sep
 
     genes = os.listdir(lsrc)
     size = 725
@@ -56,7 +55,6 @@ def main():
         print('Working with gene', genes[gidx])
         gdst = dst + lsrc.split(os.sep)[-2] + os.sep + genes[gidx] + os.sep
         
-        diagdst = '..' + os.sep + 'diagnostic' + os.sep
         ddst = diagdst + lsrc.split(os.sep)[-2] + os.sep
         if not os.path.isdir(ddst):
             os.mkdir(ddst)
@@ -69,18 +67,17 @@ def main():
             platefile = glob(lsrc + genes[gidx] + os.sep + '*_{:02d}*'.format(platenum) )[0]
             print('Ready to process', platefile)
             bname = os.path.split(os.path.splitext(platefile)[0])[1]
-            rgb = utils.load_image(platefile, color_check=args.color_check, check_rotation=args.check_rotation)
-            foo = gdst + bname
+            filename = gdst + bname + '_plateslice.csv'
+            meta = np.loadtxt(filename, delimiter=',', dtype=int)
             
-            if ~os.path.isfile(gdst + bname + '_colormatrix.csv') & os.path.isfile(foo + '_plateslice.csv') & os.path.isfile(foo + '_centers.npy'):
-
-                filename = foo + '_plateslice.csv'
-                meta = np.loadtxt(filename, delimiter=',', dtype=int)
-                filename = foo + '_centers.npy'
+            rgb = utils.load_image(platefile, check_rotation=meta[14], color_check=meta[15])
+            
+            if ~os.path.isfile(gdst + bname + '_colormatrix.csv'):
 
                 plateslice = np.s_[ meta[0]:meta[1], meta[2]:meta[3] ]
                 diagnostic = rgb[plateslice]
-
+                
+                filename = gdst + bname + '_centers.npy'
                 coords = np.load(filename, allow_pickle=True)
                 nrows = coords.shape[0]
                 ncols = coords.shape[1]
