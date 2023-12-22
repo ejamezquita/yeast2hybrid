@@ -6,6 +6,29 @@ from scipy import ndimage
 import utils
 import argparse
 
+"""
+$ python3 02_extract_color_matrix.py raw mather proc diagnostic 6 1 0 1
+
+Working with gene p53
+Ready to process ../raw/mather/p53/p53_plate_01.jpg
+../proc/mather/p53/p53_plate_01_colormatrix.csv
+Generated image ../diagnostic/mather/p53/p53_plate_01_light_correction.jpg
+Ready to process ../raw/mather/p53/p53_plate_02.jpg
+../proc/mather/p53/p53_plate_02_colormatrix.csv
+Generated image ../diagnostic/mather/p53/p53_plate_02_light_correction.jpg
+Ready to process ../raw/mather/p53/p53_plate_03.jpg
+../proc/mather/p53/p53_plate_03_colormatrix.csv
+Generated image ../diagnostic/mather/p53/p53_plate_03_light_correction.jpg
+Ready to process ../raw/mather/p53/p53_plate_04.jpg
+../proc/mather/p53/p53_plate_04_colormatrix.csv
+Generated image ../diagnostic/mather/p53/p53_plate_04_light_correction.jpg
+Ready to process ../raw/mather/p53/p53_plate_05.jpg
+../proc/mather/p53/p53_plate_05_colormatrix.csv
+Generated image ../diagnostic/mather/p53/p53_plate_05_light_correction.jpg
+Ready to process ../raw/mather/p53/p53_plate_06.jpg
+../proc/mather/p53/p53_plate_06_colormatrix.csv
+Generated image ../diagnostic/mather/p53/p53_plate_06_light_correction.jpg
+"""
 
 def main():
     parser = argparse.ArgumentParser(description='Extract a color matrix from a plate')
@@ -27,103 +50,95 @@ def main():
     genes = os.listdir(lsrc)
     size = 725
     R = 25
+    fs = 12
 
     for gidx in range(len(genes)):
         print('Working with gene', genes[gidx])
         gdst = dst + lsrc.split(os.sep)[-2] + os.sep + genes[gidx] + os.sep
         
-        for platenum in range(len(args.plate_num)):
-
+        diagdst = '..' + os.sep + 'diagnostic' + os.sep
+        ddst = diagdst + lsrc.split(os.sep)[-2] + os.sep
+        if not os.path.isdir(ddst):
+            os.mkdir(ddst)
+        ddst += genes[gidx] + os.sep
+        if not os.path.isdir(ddst):
+            os.mkdir(ddst)
+        
+        for platenum in range(1,args.plate_num+1):
+                
             platefile = glob(lsrc + genes[gidx] + os.sep + '*_{:02d}*'.format(platenum) )[0]
+            print('Ready to process', platefile)
             bname = os.path.split(os.path.splitext(platefile)[0])[1]
-            rgb = utils.load_image(platefile, color_check=1, check_rotation=False)
+            rgb = utils.load_image(platefile, color_check=args.color_check, check_rotation=args.check_rotation)
+            foo = gdst + bname
+            
+            if ~os.path.isfile(gdst + bname + '_colormatrix.csv') & os.path.isfile(foo + '_plateslice.csv') & os.path.isfile(foo + '_centers.npy'):
 
-            filename = gdst + bname + '_plateslice.csv'
-            meta = np.loadtxt(filename, delimiter=',', dtype=int)
-            filename = gdst + bname + '_centers.npy'
+                filename = foo + '_plateslice.csv'
+                meta = np.loadtxt(filename, delimiter=',', dtype=int)
+                filename = foo + '_centers.npy'
 
-            plateslice = np.s_[ meta[0]:meta[1], meta[2]:meta[3] ]
-            diagnostic = rgb[plateslice]
+                plateslice = np.s_[ meta[0]:meta[1], meta[2]:meta[3] ]
+                diagnostic = rgb[plateslice]
 
-            coords = np.load(filename, allow_pickle=True)
-            nrows = coords.shape[0]
-            ncols = coords.shape[1]
+                coords = np.load(filename, allow_pickle=True)
+                nrows = coords.shape[0]
+                ncols = coords.shape[1]
 
-            maximg = np.max(diagnostic, axis=2)
-            stdimg = np.std(diagnostic, axis=2)
-            background = (maximg < meta[4]) & (stdimg < meta[5])
+                maximg = np.max(diagnostic, axis=2)
+                stdimg = np.std(diagnostic, axis=2)
+                background = (maximg < meta[4]) & (stdimg < meta[5])
 
-            img = np.where(diagnostic[:,:,1] > diagnostic[:,:,2], diagnostic[:,:,1], diagnostic[:,:,2])
+                img = np.where(diagnostic[:,:,1] > diagnostic[:,:,2], diagnostic[:,:,1], diagnostic[:,:,2])
 
-            eimg = ndimage.grey_erosion(diagnostic[:,:,1], size=size, mode='constant', cval=255)
-            cimg = ndimage.grey_dilation(eimg, size=size, mode='constant', cval=0)
-            unif = ndimage.uniform_filter(cimg, size=size//3, mode='reflect')
-            unif[ unif > img ] = img[unif > img]
-            corr2 = img - unif
-            corr2[background] = 0
+                eimg = ndimage.grey_erosion(diagnostic[:,:,1], size=size, mode='constant', cval=255)
+                cimg = ndimage.grey_dilation(eimg, size=size, mode='constant', cval=0)
+                unif = ndimage.uniform_filter(cimg, size=size//3, mode='reflect')
+                unif[ unif > img ] = img[unif > img]
+                corr2 = img - unif
+                corr2[background] = 0
 
-            q = np.zeros((nrows, ncols))
+                q = np.zeros((nrows, ncols))
 
-            for row in range(nrows):
-                for col in range(ncols):
-                    pos = coords[row,col,:].astype(int)
-                    if np.sum(pos) > 10:
-                        slic = np.s_[pos[1] - R : pos[1] + R + 1, pos[0] - R : pos[0] + R + 1]
-                        foo = corr2[slic]
-                        q[row,col] = np.quantile(foo[foo > 0], 0.5)
-                    else:
-                        q[row,col] = 0
+                for row in range(nrows):
+                    for col in range(ncols):
+                        pos = coords[row,col,:].astype(int)
+                        if np.sum(pos) > 10:
+                            slic = np.s_[pos[1] - R : pos[1] + R + 1, pos[0] - R : pos[0] + R + 1]
+                            foo = corr2[slic]
+                            q[row,col] = np.quantile(foo[foo > 0], 0.5)
+                        else:
+                            q[row,col] = 0
 
-            filename = gdst + bname + '_colormatrix.csv'
-            print(filename)
-            np.savetxt(filename, q, delimiter=',', fmt='%.1f')
+                filename = gdst + bname + '_colormatrix.csv'
+                print(filename)
+                np.savetxt(filename, q, delimiter=',', fmt='%.1f')
 
-if args.verbose:
+                if args.verbose:
 
-fig, ax = plt.subplots(1,1, figsize=(13,9), sharex=True, sharey=True)
-ax = np.atleast_1d(ax).ravel()
-ax[0].imshow(q, cmap='Reds_r', vmin=0)
-ax[0].set_xticks(range(ncols), range(ncols))
-ax[0].set_yticks(range(nrows), range(nrows));
+                    fig, ax = plt.subplots(2,2, figsize=(9,7), sharex=False, sharey=False)
+                    ax = np.atleast_1d(ax).ravel(); i = 0
 
+                    vmax = np.max(corr2)
 
-# In[27]:
+                    ax[i].imshow(img, vmin=0, origin='upper', cmap='Reds_r'); 
+                    ax[i].set_xlabel('Original Grayscale', fontsize=fs); i+=1
+                    ax[i].imshow(unif, vmin=0, vmax=255, origin='upper', cmap='inferno');
+                    ax[i].set_xlabel('Ilumination correction', fontsize=fs); i+=1
+                    ax[i].imshow(corr2, vmin=0, vmax=vmax, origin='upper', cmap='Reds_r');
+                    ax[i].set_xlabel('Adjusted Grayscale - Background', fontsize=fs); i+=1
+                    ax[i].imshow(q, origin='upper', cmap='Reds_r');
+                    ax[i].set_xlabel('Intensity matrix', fontsize=fs); i+=1
 
+                    for i in range(len(ax)):
+                        ax[i].tick_params(bottom=False, left=False, labelbottom=False, labelleft=False)
 
-fig, ax = plt.subplots(2,2, figsize=(14,10), sharex=True, sharey=True)
-ax = np.atleast_1d(ax).ravel(); i = 0
-
-vmax = np.max(corr2)
-
-ax[i].imshow(img, vmin=0, origin='upper', cmap='Reds_r'); i+=1
-ax[i].imshow(cimg, vmin=0, vmax=255, origin='upper', cmap='inferno'); i+=1
-ax[i].imshow(unif, vmin=0, vmax=255, origin='upper', cmap='inferno'); i+=1
-ax[i].imshow(corr2, vmin=0, vmax=vmax, origin='upper', cmap='Reds_r'); i+=1
-
-for i in range(len(ax)):
-    ax[i].axis('off')
-    
-fig.tight_layout();
-
-
-# In[109]:
-
-
-row = 11
-fig, ax = plt.subplots(6,8, figsize=(20,15), sharex=True, sharey=True)
-ax = np.atleast_1d(ax).ravel()
-
-for i in range(len(ax)):
-    pos = coords[row,i]
-    if np.sum(pos) > 10:
-        slic = np.s_[pos[1] - R : pos[1] + R + 1, pos[0] - R : pos[0] + R + 1]
-        foo = corr2[slic]
-        med = np.median(foo[foo > 0])
-        ax[i].imshow(foo, origin='upper', cmap='Reds_r', vmax=vmax, vmin=0);
-        ax[i].set_title(int(med))
-    ax[i].axis('off')
-
-fig.tight_layout();
+                    fig.suptitle(genes[gidx] + ' : ' + bname + ' : colormatrix extraction', fontsize=fs+5)
+                    fig.tight_layout();
+                    filename = ddst + 'light_correction_' + bname + '.jpg'
+                    plt.savefig(filename, format='jpg', dpi=100, bbox_inches='tight', pil_kwargs={'optimize':True})
+                    plt.close()
+                    print('Generated image',filename)
 
 if __name__ == '__main__':
     main()
