@@ -11,6 +11,8 @@ from skimage import exposure
 import argparse
 
 """
+How to run and expected output
+
 $ python3 03_compare_color_matrices.py proc leyre proc mather p53 diagnostic 6 1
 
 Reference:	p53

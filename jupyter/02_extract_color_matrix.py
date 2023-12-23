@@ -7,6 +7,8 @@ import utils
 import argparse
 
 """
+How to run and expected output
+
 $ python3 02_extract_color_matrix.py raw mather proc diagnostic 6 1
 
 Working with gene p53
@@ -72,7 +74,7 @@ def main():
             
             rgb = utils.load_image(platefile, check_rotation=meta[14], color_check=meta[15])
             
-            if ~os.path.isfile(gdst + bname + '_colormatrix.csv'):
+            if not os.path.isfile(gdst + bname + '_colormatrix.csv'):
 
                 plateslice = np.s_[ meta[0]:meta[1], meta[2]:meta[3] ]
                 diagnostic = rgb[plateslice]
