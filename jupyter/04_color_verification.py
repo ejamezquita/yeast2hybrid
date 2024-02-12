@@ -12,7 +12,7 @@ import argparse
 """
 How to run and expected output
 
-$ python3 04_color_verification.py raw proc leyre mather p53 diagnostic 6
+$ python3 04_color_verification.py raw proc leyre mather p53 diagnostic 6 1 1
 Reference:	p53
 Colonies to plot:	['LBD37']
 Comparing gene LBD37 with reference p53
@@ -40,10 +40,13 @@ def main():
     parser.add_argument('refgene', metavar='refname_dir', type=str, help='name of reference gene')
     parser.add_argument('diagdst', metavar='diagdst_dir', type=str, help='directory where diagnostic images are stored')
     parser.add_argument('plate_num', metavar='plate_num', type=int, help='Number of plates to process')
+    parser.add_argument('repsr', metavar='repetitions_row', type=int, help='Number of repetitions along the row')
+    parser.add_argument('repsc', metavar='repetitions_col', type=int, help='Number of repetitions along the column')
     args = parser.parse_args()
 
     reference_foldername = args.refdir
     reference_gene = args.refgene
+    repsr, repsc = args.repsr, args.repsc
 
     fs = 15
     R = 80
@@ -58,7 +61,7 @@ def main():
 
     dst = '..' + os.sep + args.diagdst + os.sep
 
-    genes = os.listdir(lsrc)
+    genes = sorted(os.listdir(lsrc))
     print('Reference:\t', reference_gene, '\nColonies to plot:\t', genes, sep='')
 
 
@@ -122,9 +125,9 @@ def main():
 
                     j = 2*ix
                     for (cc,img) in zip([rawcoords, pltcoords],[rawimg,pltimg]):
-                        dots = cc[2*row : 2*row + 2, 2*col : 2*col + 2]
+                        dots = cc[repsr*row : repsr*row + repsr, repsc*col : repsc*col + repsc]
                         center = np.mean(np.mean(dots, axis = 0), axis = 0).astype(int)
-                        rss = np.s_[center[1] - R : center[1] + R, center[0] - R : center[0] + R]
+                        rss = np.s_[max(0, center[1] - R) : center[1] + R, max(0,center[0] - R) : center[0] + R]
                         ax[j,jx].imshow(img[rss], vmin=0, origin='upper'); j+=1
 
                 for i in range(1, 1 + axrows*axcols - plotnums):
@@ -164,9 +167,9 @@ def main():
 
                     j = 2*ix
                     for (cc,img) in zip([rawcoords, pltcoords],[rawimg,pltimg]):
-                        dots = cc[2*row : 2*row + 2, 2*col : 2*col + 2]
+                        dots = cc[repsr*row : repsr*row + repsr, repsc*col : repsc*col + repsc]
                         center = np.mean(np.mean(dots, axis = 0), axis = 0).astype(int)
-                        rss = np.s_[center[1] - R : center[1] + R, center[0] - R : center[0] + R]
+                        rss = np.s_[max(0, center[1] - R) : center[1] + R, max(0,center[0] - R) : center[0] + R]
                         ax[j,jx].imshow(img[rss], vmin=0, origin='upper'); j+=1
 
                 for i in range(1, 1 + axrows*axcols - plotnums):

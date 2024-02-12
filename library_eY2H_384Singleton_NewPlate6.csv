@@ -1,0 +1,2305 @@
+Identifier,Coordinate,Family,Common_Name,SubCellular,SubOrganellar
+AT1G68150,p01-r01-c01,WRKY,ATWRKY9,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G47760,p01-r01-c02,MADS,AGL102,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G55600,p01-r01-c03,WRKY,MINI3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G14020,p01-r01-c04,CCAAT,NF-YA6,Nucleus,Chromosome
+AT4G18470,p01-r01-c05,ND,SNI1,Nucleus,Chromosome
+AT5G60890,p01-r01-c06,MYB,ATR1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G06500,p01-r01-c07,MADS,AGL96,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G02310,p01-r01-c08,MADS,AGL4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G24430,p01-r01-c09,NAC,ANAC039,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G42830,p01-r01-c10,MADS,AGL5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G26650,p01-r01-c11,MADS,AGL36,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G65360,p01-r01-c12,MADS,AGL23,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G60920,p01-r01-c13,MADS,AGL55,Nucleus,Chromosome
+AT3G30260,p01-r01-c14,MADS,AGL79,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G60880,p01-r01-c15,MADS,AGL56,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G34440,p01-r01-c16,MADS,AGL29,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G24050,p01-r01-c17,C2C2-GATA,GATA1,Nucleus,Chromosome
+AT5G27910,p01-r01-c18,CCAAT,NF-YC8,Nucleus,Chromosome
+AT2G37430,p01-r01-c19,C2H2,ZAT11,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G30530,p01-r01-c20,bZIP,ATBZIP42,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G04340,p01-r01-c21,C2H2,AtZAT6,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G38800,p01-r01-c22,bZIP,AtbZIP43,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT4G25470,p01-r01-c23,AP2-EREBP,DREB1C,Nucleus,Chromosome
+AT3G12250,p01-r01-c24,bZIP,BZIP45,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G48250,p01-r02-c01,C2C2-CO-like,BBX8,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G15030,p01-r02-c02,TCP,MEE35,Nucleus,Chromosome
+AT4G09450,p01-r02-c03,MYB-related,AT4G09450,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G47460,p01-r02-c04,MYB,PFG1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G72450,p01-r02-c05,ZIM,TIFY11B,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G44160,p01-r02-c06,C2H2,AtIDD8,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G42680,p01-r02-c07,MBF1,MBF1A,Nucleus,"Nucleus, nucleolus"
+AT2G33480,p01-r02-c08,NAC,ANAC041,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G01250,p01-r02-c09,WRKY,AtWRKY22,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G12720,p01-r02-c10,MYB,MYB67,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G36990,p01-r02-c11,SIGMA70-like,SOLDAT8,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma; Plastid, chloroplast thylakoid lumen"
+AT4G31800,p01-r02-c12,WRKY,WRKY18,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G47210,p01-r02-c13,MYB-related,ATSWC4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G25900,p01-r02-c14,C3H,ATTZF1,Nucleus,Nucleus speckle; Chromosome
+AT2G25650,p01-r02-c15,GeBP,GPL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G23240,p01-r02-c16,AP2-EREBP,ERF1B,Nucleus,Chromosome
+AT1G25560,p01-r02-c17,AP2-EREBP,EDF1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT3G47620,p01-r02-c18,TCP,AtTCP14,Nucleus,Chromosome
+AT3G07670,p01-r02-c19,SET,AT3G07670,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid lumen"
+AT3G04420,p01-r02-c20,NAC,ANAC048,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G04950,p01-r02-c21,ND,ATTAF6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G13810,p01-r02-c22,C2H2,AtIDD11,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G72010,p01-r02-c23,TCP,TCP22,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G09790,p01-r02-c24,PHD,PDE336,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G42910,p01-r03-c01,bZIP,AT5G42910,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G04038,p01-r03-c02,bZIP,AtbZIP48,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT4G14550,p01-r03-c03,AUX-IAA,IAA14,Nucleus,Chromosome
+AT3G17609,p01-r03-c04,bZIP,HYH,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G46990,p01-r03-c05,AUX-IAA,IAA20,Nucleus,Chromosome
+AT5G06839,p01-r03-c06,bZIP,bZIP65,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G11880,p01-r03-c07,MADS,AGL14,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G48000,p01-r03-c08,MYB,MYB112,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G57230,p01-r03-c09,MADS,AGL16,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G25340,p01-r03-c10,MYB,AtMYB116,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G22630,p01-r03-c11,MADS,AGL17,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G27785,p01-r03-c12,MYB,MYB118,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G10140,p01-r03-c13,MADS,FLC,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G30210,p01-r03-c14,MYB,MYB121,Nucleus,Chromosome
+AT5G65050,p01-r03-c15,MADS,MAF2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G35550,p01-r03-c16,MYB,TT2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G23260,p01-r03-c17,MADS,TT16,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G02320,p01-r03-c18,MYB,ATMYB3R5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G62165,p01-r03-c19,MADS,AGL42,Nucleus,Chromosome
+AT5G62320,p01-r03-c20,MYB,ATMYB99,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G40220,p01-r03-c21,MADS,AGL43,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G36890,p01-r03-c22,MYB,RAX2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G39750,p01-r03-c23,MADS,EMB3008,Nucleus,Chromosome
+AT4G25560,p01-r03-c24,MYB,AtMYB18,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G67300,p01-r04-c01,MYB,MYBR1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G06960,p01-r04-c02,bZIP,OBF5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G30080,p01-r04-c03,ARF,ARF16,Nucleus,Chromosome
+AT4G13980,p01-r04-c04,HSF,AT-HSFA5,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT5G08520,p01-r04-c05,MYB,AT5G08520,Nucleus,Chromosome
+AT3G17860,p01-r04-c06,ZIM,JAZ3,Nucleus,Chromosome
+AT3G14180,p01-r04-c07,TRIHELIX,ASIL2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G28140,p01-r04-c08,AP2-EREBP,AT4G28140,Nucleus,Chromosome
+AT1G42990,p01-r04-c09,bZIP,ATBZIP60,Nucleus,"Nucleus, nucleolus"
+AT3G50060,p01-r04-c10,MYB,MYB77,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G10240,p01-r04-c11,Orphans,bbx23,Nucleus,Chromosome
+AT2G39900,p01-r04-c12,LIM,WLIM2a,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G46270,p01-r04-c13,bZIP,GBF3,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G02590,p01-r04-c14,bHLH,UNE12,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G29190,p01-r04-c15,C3H,AtC3H49,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G18020,p01-r04-c16,ARR-B,PRR2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT4G27410,p01-r04-c17,NAC,AtRD26,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G14410,p01-r04-c18,bHLH,bHLH104,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT3G10480,p01-r04-c19,NAC,ANAC050,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G00180,p01-r04-c20,C2C2-YABBY,YAB3,Nucleus,Chromosome
+AT1G68550,p01-r04-c21,AP2-EREBP,CRF10,Nucleus,Chromosome
+AT1G04990,p01-r04-c22,C3H,AT1G04990,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G41835,p01-r04-c23,C2H2,AT2G41835,Nucleus,Chromosome
+AT3G13350,p01-r04-c24,ARID,AT3G13350,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G09530,p01-r05-c01,bHLH,PIF3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G71450,p01-r05-c02,AP2-EREBP,FUF1,Nucleus,Chromosome
+AT3G05200,p01-r05-c03,ND,ATL6,Membrane,Cell membrane
+AT5G01200,p01-r05-c04,MYB,AT5G01200,Nucleus,Chromosome
+AT2G42360,p01-r05-c05,ND,AT2G42360,Endoplasmic,Endoplasmic reticulum membrane
+AT3G10590,p01-r05-c06,MYB,AT3G10590,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G11680,p01-r05-c07,ND,AT4G11680,Endoplasmic,Endoplasmic reticulum membrane
+AT3G61250,p01-r05-c08,MYB,LMI2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G63840,p01-r05-c09,ND,AT1G63840,Endoplasmic,Endoplasmic reticulum membrane
+AT3G10580,p01-r05-c10,MYB-related,AT3G10580,Nucleus,Chromosome
+AT2G20180,p01-r05-c11,bHLH,PIF1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G71030,p01-r05-c12,MYB-related,ATMYBL2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G22750,p01-r05-c13,bHLH,AT2G22750,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G26660,p01-r05-c14,MYB,ATMYB86,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G37730,p01-r05-c15,bZIP,AtbZIP7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G11250,p01-r05-c16,MADS,AGL52,Nucleus,Chromosome
+AT5G24800,p01-r05-c17,bZIP,BZIP9,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G41200,p01-r05-c18,MADS,AGL75,Nucleus,Chromosome
+AT2G22760,p01-r05-c19,bHLH,AT2G22760,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G65330,p01-r05-c20,MADS,PHE1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G10030,p01-r05-c21,bZIP,TGA4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G13450,p01-r05-c22,TRIHELIX,GT-1,Nucleus,Chromosome
+AT4G36900,p01-r05-c23,AP2-EREBP,RAP2.10,Nucleus,Chromosome
+AT1G49560,p01-r05-c24,G2-like,AT1G49560,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G39760,p01-r06-c01,zf-HD,ZHD10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G52010,p01-r06-c02,C2H2,AT5G52010,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT2G44150,p01-r06-c03,SET,SDG7,Nucleus,Chromosome
+AT3G12480,p01-r06-c04,CCAAT,NF-YC11,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G50420,p01-r06-c05,GRAS,SCL3,Nucleus,Chromosome
+AT5G03740,p01-r06-c06,C2H2,HD2C,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G44260,p01-r06-c07,C3H,AtTZF5,Nucleus,Chromosome
+AT1G14920,p01-r06-c08,GRAS,RGA2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G51140,p01-r06-c09,bHLH,AKS1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G29580,p01-r06-c10,C3H,MAC5B,Nucleus,Chromosome
+AT4G39100,p01-r06-c11,PHD,SHL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G01470,p01-r06-c12,HB,HD-ZIP-1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G39610,p01-r06-c13,NAC,ANAC092,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G31370,p01-r06-c14,bZIP,PosF21,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G27360,p01-r06-c15,SBP,SPL11,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G21000,p01-r06-c16,PLATZ,AT1G21000,Nucleus,Chromosome
+AT2G31230,p01-r06-c17,AP2-EREBP,ATERF15,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G58620,p01-r06-c18,C3H,TZF9,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G65320,p01-r06-c19,bHLH,AT5G65320,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G35550,p01-r06-c20,HB,HB-4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G57660,p01-r06-c21,C2C2-CO-like,ATCOL5,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G45260,p01-r06-c22,C2H2,BIB,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G53160,p01-r06-c23,SBP,SPL4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G18880,p01-r06-c24,HSF,AT-HSFA4A,Nucleus,Chromosome
+AT1G80580,p01-r07-c01,AP2-EREBP,AT1G80580,Nucleus,Chromosome
+AT1G68320,p01-r07-c02,MYB,BW62B,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G56970,p01-r07-c03,bHLH,ORG2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G40260,p01-r07-c04,G2-like,AT2G40260,Nucleus,Chromosome
+AT4G30980,p01-r07-c05,bHLH,LRL2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT3G27920,p01-r07-c06,MYB,GL1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G01720,p01-r07-c07,NAC,ATAF1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G56110,p01-r07-c08,MYB,MS188,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G18400,p01-r07-c09,NAC,ANAC058,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G56840,p01-r07-c10,MYB-related,AT5G56840,Nucleus,Chromosome
+AT5G22380,p01-r07-c11,NAC,NAC090,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G15580,p01-r07-c12,AUX-IAA,IAA5,Nucleus,Chromosome
+AT5G67060,p01-r07-c13,bHLH,HEC1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G23140,p01-r07-c14,C2H2,URO,Nucleus,Nucleus speckle; Chromosome
+AT2G41240,p01-r07-c15,bHLH,BHLH100,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G58070,p01-r07-c16,C2H2,GIS,Nucleus,Nucleus speckle; Chromosome
+AT5G59340,p01-r07-c17,HB,WOX2,Nucleus,"Nucleus, nucleolus; Nucleus membrane; Nucleus speckle; Chromosome"
+AT5G53040,p01-r07-c18,RWP-RK,RKD4,Nucleus,Chromosome
+AT5G45980,p01-r07-c19,HB,WOX9B,Nucleus,Nucleus speckle; Chromosome
+AT2G41130,p01-r07-c20,bHLH,STC8,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G62100,p01-r07-c21,AUX-IAA,IAA30,Nucleus,Chromosome
+AT3G56770,p01-r07-c22,bHLH,AT3G56770,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G67260,p01-r07-c23,TCP,TCP1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G56980,p01-r07-c24,bHLH,bHLH39,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G11440,p01-r08-c01,MYB,MYB65,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G01010,p01-r08-c02,NAC,NAC001,Nucleus,Chromosome
+AT5G22570,p01-r08-c03,WRKY,WRKY38,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G46310,p01-r08-c04,AP2-EREBP,CRF5,Nucleus,Chromosome
+AT1G24625,p01-r08-c05,C2H2,ZFP7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G77080,p01-r08-c06,MADS,FLM,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G42400,p01-r08-c07,VOZ,VOZ2,Nucleus,Chromosome
+AT5G15800,p01-r08-c08,MADS,44805,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G47640,p01-r08-c09,CCAAT,NF-YB2,Nucleus,Chromosome
+AT4G30410,p01-r08-c10,bHLH,IBL1,Nucleus,Chromosome
+AT3G44460,p01-r08-c11,bZIP,AtbZIP67,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G27990,p01-r08-c12,HB,BLH8,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G09460,p01-r08-c13,MYB,MYB6,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G55520,p01-r08-c14,ND,TBP2,Nucleus,Chromosome
+AT2G18300,p01-r08-c15,bHLH,HBI1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT1G03840,p01-r08-c16,C2H2,MGP,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G28640,p01-r08-c17,GIF,GIF,Nucleus,Chromosome
+AT3G29035,p01-r08-c18,NAC,ANAC059,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G15510,p01-r08-c19,NAC,ANAC056,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G58120,p01-r08-c20,bZIP,BZIP61,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT3G48160,p01-r08-c21,E2F-DP,DEL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G46130,p01-r08-c22,WRKY,WRKY43,Nucleus,Chromosome
+AT1G69690,p01-r08-c23,TCP,AtTCP15,Nucleus,Chromosome
+AT1G08780,p01-r08-c24,ND,PFD4,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G41030,p01-r09-c01,TCP,AT5G41030,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G22490,p01-r09-c02,bHLH,bHLH094,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G35560,p01-r09-c03,TCP,TCP23,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G53210,p01-r09-c04,bHLH,SPCH,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G08070,p01-r09-c05,TCP,TCP17,Nucleus,Chromosome
+AT3G57920,p01-r09-c06,SBP,SPL15,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G69180,p01-r09-c07,C2C2-YABBY,CRC,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G49120,p01-r09-c08,AP2-EREBP,CRF9,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G08465,p01-r09-c09,C2C2-YABBY,YAB2,Nucleus,Chromosome
+AT3G57600,p01-r09-c10,AP2-EREBP,AT3G57600,Nucleus,Chromosome
+AT5G64060,p01-r09-c11,NAC,NAC103,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G60490,p01-r09-c12,AP2-EREBP,AT3G60490,Nucleus,Chromosome
+AT3G50650,p01-r09-c13,GRAS,AT3G50650,Nucleus,Chromosome
+AT4G27950,p01-r09-c14,AP2-EREBP,CRF4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G66600,p01-r09-c15,WRKY,WRKY63,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G11190,p01-r09-c16,AP2-EREBP,SHN2,Nucleus,Chromosome
+AT4G35610,p01-r09-c17,C2H2,AT4G35610,Nucleus,Chromosome
+AT2G47270,p01-r09-c18,bHLH,UPB1,Nucleus,Chromosome
+AT4G35280,p01-r09-c19,C2H2,DAZ2,Nucleus,Nucleus speckle; Chromosome
+AT3G50410,p01-r09-c20,C2C2-DOF,OBP1,Nucleus,Chromosome
+AT5G05410,p01-r09-c21,AP2-EREBP,DREB2,Nucleus,Chromosome
+AT1G35490,p01-r09-c22,bZIP,AT1G35490,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G16280,p01-r09-c23,AP2-EREBP,AT3G16280,Nucleus,Chromosome
+AT4G26150,p01-r09-c24,C2C2-GATA,CGA1,Nucleus,Chromosome
+AT2G28510,p01-r10-c01,C2C2-DOF,AT2G28510,Nucleus,Chromosome
+AT1G15360,p01-r10-c02,AP2-EREBP,SHN1,Nucleus,Chromosome
+AT2G47810,p01-r10-c03,CCAAT,NF-YB5,Nucleus,Chromosome
+AT5G14000,p01-r10-c04,NAC,ANAC084,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G16610,p01-r10-c05,C2H2,AT4G16610,Nucleus,"Nucleus, nucleolus"
+AT4G32890,p01-r10-c06,C2C2-GATA,GATA9,Nucleus,"Nucleus, PML body; Chromosome"
+AT4G01060,p01-r10-c07,MYB-related,ETC3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G36570,p01-r10-c08,MYB-related,ATRL3,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G25190,p01-r10-c09,AP2-EREBP,ESE3,Nucleus,Chromosome
+AT2G25000,p01-r10-c10,WRKY,WRKY60,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G03470,p01-r10-c11,MYB-related,AT2G03470,Nucleus,Chromosome
+AT5G05090,p01-r10-c12,G2-like,AT5G05090,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G08810,p01-r10-c13,MYB,AtMYB60,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G02470,p01-r10-c14,E2F-DP,DPA,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G17785,p01-r10-c15,MYB,MYB39,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G69170,p01-r10-c16,SBP,AtSPL6,Nucleus,Chromosome
+AT4G16780,p01-r10-c17,HB,ATHB2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT3G15270,p01-r10-c18,SBP,SPL5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G67580,p01-r10-c19,MYB-related,TBP3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G57480,p01-r10-c20,C2H2,AT3G57480,Nucleus,Chromosome
+AT1G23380,p01-r10-c21,HB,KNAT6L,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G25470,p01-r10-c22,AP2-EREBP,CRF12,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G31610,p01-r10-c23,ABI3-VP1,ATREM1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G55530,p01-r10-c24,ND,SDIR1,Endoplasmic,Endoplasmic reticulum membrane
+AT4G32980,p01-r11-c01,HB,ATH1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G25830,p01-r11-c02,C2C2-GATA,GATA12,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G34610,p01-r11-c03,HB,BLH6,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G16530,p01-r11-c04,LOB,ASL9,Nucleus,Chromosome
+AT3G12820,p01-r11-c05,MYB,AtMYB10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G07900,p01-r11-c06,LOB,LBD1,Nucleus,Chromosome
+AT1G79180,p01-r11-c07,MYB,ATMYB63,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G28500,p01-r11-c08,LOB,LBD11,Nucleus,Chromosome
+AT3G21880,p01-r11-c09,C2C2-CO-like,BBX10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G42430,p01-r11-c10,LOB,ASL18,Nucleus,Chromosome
+AT2G47890,p01-r11-c11,C2C2-CO-like,AT2G47890,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G45410,p01-r11-c12,LOB,LBD19,Nucleus,Chromosome
+AT5G61420,p01-r11-c13,MYB,HAG1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G45420,p01-r11-c14,LOB,LBD18,Nucleus,Chromosome
+AT5G06800,p01-r11-c15,G2-like,AT5G06800,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G47870,p01-r11-c16,LOB,LBD27,Nucleus,Chromosome
+AT5G45580,p01-r11-c17,G2-like,AT5G45580,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G06280,p01-r11-c18,LOB,LBD2,Nucleus,Chromosome
+AT1G17950,p01-r11-c19,MYB,MYB52,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G15830,p01-r11-c20,bZIP,AtbZIP3,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G21120,p01-r11-c21,EIL,EIL2,Nucleus,Chromosome
+AT1G06070,p01-r11-c22,bZIP,bZIP69,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G73410,p01-r11-c23,MYB,ATMYB54,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G30180,p01-r11-c24,bHLH,AT4G30180,Nucleus,Chromosome
+AT3G58630,p01-r12-c01,TRIHELIX,AT3G58630,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G47260,p01-r12-c02,WRKY,ATWRKY23,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G38880,p01-r12-c03,CCAAT,ATNF-YB1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G75390,p01-r12-c04,bZIP,bZIP44,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G47370,p01-r12-c05,HB,HAT2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G62920,p01-r12-c06,Orphans,ARR6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G45420,p01-r12-c07,MYB,maMYB,Endoplasmic,Endoplasmic reticulum membrane
+AT3G54390,p01-r12-c08,TRIHELIX,AT3G54390,Nucleus,Chromosome
+AT3G25710,p01-r12-c09,bHLH,BHLH32,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G30650,p01-r12-c10,WRKY,AR411,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G42780,p01-r12-c11,zf-HD,ZHD13,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G60200,p01-r12-c12,C2C2-DOF,TMO6,Nucleus,Chromosome
+AT5G04390,p01-r12-c13,C2H2,AT5G04390,Nucleus,Nucleus speckle; Chromosome
+AT5G65410,p01-r12-c14,zf-HD,ZFHD2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G69120,p01-r12-c15,MADS,AP1,Nucleus,Chromosome
+AT3G50750,p01-r12-c16,BES1,BEH1,Nucleus,Chromosome
+AT4G16141,p01-r12-c17,C2C2-GATA,GATA17L,Nucleus,Chromosome
+AT3G46640,p01-r12-c18,G2-like,LUX,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT3G02790,p01-r12-c19,C2H2,MBS1,Nucleus,"Nucleus, nucleolus"
+AT1G72830,p01-r12-c20,CCAAT,ATHAP2C,Plastid,"Plastid, chloroplast stroma"
+AT5G28770,p01-r12-c21,bZIP,AtbZIP63,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G41570,p01-r12-c22,WRKY,WRKY24,Nucleus,Chromosome
+AT2G41940,p01-r12-c23,C2H2,ZFP8,Nucleus,Chromosome
+AT5G43700,p01-r12-c24,AUX-IAA,IAA4,Nucleus,Chromosome
+AT3G04450,p01-r13-c01,G2-like,AT3G04450,Nucleus,Nucleus speckle; Chromosome
+AT5G03790,p01-r13-c02,HB,ATHB51,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus membrane; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT2G20400,p01-r13-c03,G2-like,AT2G20400,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G26590,p01-r13-c04,C2H2,AT1G26590,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G60250,p01-r13-c05,Orphans,BBX26,Nucleus,Chromosome
+AT1G26610,p01-r13-c06,C2H2,AT1G26610,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G39070,p01-r13-c07,Orphans,BZS1,Nucleus,Chromosome
+AT1G51220,p01-r13-c08,C2H2,AtWIP5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G01060,p01-r13-c09,MYB-related,LHY1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G26940,p01-r13-c10,C2H2,AT2G26940,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G28920,p01-r13-c11,ND,AT2G28920,Golgi_apparatus,Golgi apparatus membrane
+AT3G10470,p01-r13-c12,C2H2,AT3G10470,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G31580,p01-r13-c13,ND,SRZ-22,Nucleus,"Nucleus, nucleoplasm; Nucleus speckle"
+AT5G22990,p01-r13-c14,C2H2,AT5G22990,Nucleus,Chromosome
+AT4G21040,p01-r13-c15,C2C2-DOF,DOF4.3,Nucleus,Chromosome
+AT4G01720,p01-r13-c16,WRKY,WRKY47,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G52440,p01-r13-c17,C2C2-DOF,AT3G52440,Nucleus,Chromosome
+AT5G15130,p01-r13-c18,WRKY,ATWRKY72,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G21340,p01-r13-c19,C2C2-DOF,AT1G21340,Nucleus,Chromosome
+AT3G27650,p01-r13-c20,LOB,LBD25,Mitochondrion,Mitochondrion inner membrane
+AT2G17900,p01-r13-c21,ND,ASHR1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G05710,p01-r13-c22,ND,AT1G05710,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G31680,p01-r13-c23,ABI3-VP1,AT4G31680,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT3G13445,p01-r13-c24,ND,TFIID-1,Nucleus,Chromosome
+AT5G60850,p01-r14-c01,C2C2-DOF,AtDOF5.4,Nucleus,Chromosome
+AT5G24110,p01-r14-c02,WRKY,WRKY30,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G49530,p01-r14-c03,NAC,ANAC062,Membrane,Cell membrane
+AT3G45610,p01-r14-c04,C2C2-DOF,DOF6,Nucleus,Chromosome
+AT4G30935,p01-r14-c05,WRKY,WRKY32,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G38340,p01-r14-c06,AP2-EREBP,DREB19,Nucleus,Chromosome
+AT3G51960,p01-r14-c07,bZIP,ATBZIP24,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G11660,p01-r14-c08,HSF,HSFB2B,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G45800,p01-r14-c09,LIM,PLIM2a,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G14900,p01-r14-c10,ND,HMGA,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G30500,p01-r14-c11,CCAAT,NF-YA7,Nucleus,Chromosome
+AT5G65790,p01-r14-c12,MYB,ATMYB68,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G66140,p01-r14-c13,C2H2,ZFP4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G26260,p01-r14-c14,bHLH,CIB5,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus membrane; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G78700,p01-r14-c15,BES1,BEH4,Nucleus,Chromosome
+AT3G49940,p01-r14-c16,LOB,LBD38,Nucleus,Chromosome
+AT3G50260,p01-r14-c17,AP2-EREBP,DEAR1,Nucleus,Chromosome
+AT1G66470,p01-r14-c18,bHLH,RHD6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G51880,p01-r14-c19,HMG,HMGB1,Nucleus,Chromosome
+AT5G07680,p01-r14-c20,NAC,NAC080,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G13180,p01-r14-c21,NAC,VNI2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G60390,p01-r14-c22,HB,HAT3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT2G30580,p01-r14-c23,ND,DRIP2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G24590,p01-r14-c24,NAC,ANAC091,Membrane,Cell membrane
+AT3G11580,p01-r15-c01,ABI3-VP1,SOD7,Nucleus,Chromosome
+AT1G06040,p01-r15-c02,Orphans,BBX24,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G44910,p01-r15-c03,HB,HB4,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT2G36930,p01-r15-c04,C2H2,AT2G36930,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G20700,p01-r15-c05,HB,WOX14,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G19290,p01-r15-c06,bZIP,AtAREB2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G52020,p01-r15-c07,AP2-EREBP,AT5G52020,Nucleus,Chromosome
+AT2G40620,p01-r15-c08,bZIP,bZIP18,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G06746,p01-r15-c09,AP2-EREBP,RAP2.9,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G33550,p01-r15-c10,TRIHELIX,ASR3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G64380,p01-r15-c11,AP2-EREBP,AT1G64380,Nucleus,Chromosome
+AT3G13040,p01-r15-c12,G2-like,AT3G13040,Nucleus,Chromosome
+AT3G25890,p01-r15-c13,AP2-EREBP,CRF11,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G51080,p01-r15-c14,C2C2-GATA,GATA6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G61910,p01-r15-c15,NAC,NAC066,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G08290,p01-r15-c16,C2H2,WIP3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G44350,p01-r15-c17,NAC,ANAC061,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G31380,p01-r15-c18,Orphans,BBX25,Nucleus,Chromosome
+AT1G35515,p01-r15-c19,MYB,MYB8,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G21200,p01-r15-c20,TRIHELIX,AT1G21200,Nucleus,Chromosome
+AT1G17310,p01-r15-c21,MADS,AT1G17310,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G13260,p01-r15-c22,AP2-EREBP,AtRAV1,Nucleus,Chromosome
+AT3G53340,p01-r15-c23,CCAAT,NF-YB10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G74840,p01-r15-c24,MYB-related,AT1G74840,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G18670,p01-r16-c01,ND,AT2G18670,Membrane,Cell membrane
+AT2G01570,p01-r16-c02,GRAS,RGA,Nucleus,Chromosome
+AT3G61550,p01-r16-c03,ND,AT3G61550,Membrane,Cell membrane
+AT2G42200,p01-r16-c04,SBP,SPL9,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G06200,p01-r16-c05,GRF,GRF6,Nucleus,Chromosome
+AT5G63790,p01-r16-c06,NAC,NAC102,Nucleus,Chromosome
+AT1G69780,p01-r16-c07,HB,ATHB13,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus membrane; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT2G30250,p01-r16-c08,WRKY,WRKY25,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G08970,p01-r16-c09,CCAAT,NF-YC9,Nucleus,Chromosome
+AT4G01580,p01-r16-c10,ABI3-VP1,AT4G01580,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G10030,p01-r16-c11,TRIHELIX,AT3G10030,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT4G00850,p01-r16-c12,GIF,GIF3,Nucleus,Chromosome
+AT1G27370,p01-r16-c13,SBP,SPL10,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G19280,p01-r16-c14,FHA,RAG1,Secreted,"Secreted, extracellular space"
+AT3G20310,p01-r16-c15,AP2-EREBP,ERF7,Nucleus,Nucleus speckle; Chromosome
+AT3G62690,p01-r16-c16,ND,ATL5,Membrane,Cell membrane
+AT1G13300,p01-r16-c17,G2-like,HRS1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G09370,p01-r16-c18,MYB,MYB3R-3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G11200,p01-r16-c19,ALFIN-like,AL2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G45050,p01-r16-c20,C2C2-GATA,GATA2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G04030,p01-r16-c21,G2-like,MYR2,Nucleus,Chromosome
+AT1G76710,p01-r16-c22,SET,ASHH1,Nucleus,Chromosome
+AT3G12730,p01-r16-c23,G2-like,AT3G12730,Nucleus,Nucleus speckle; Chromosome
+AT2G17560,p01-r16-c24,HMG,NFD4,NucleusCytoplasm,"Chromosome; Cytoplasm, cytosol"
+AT2G01650,p02-r01-c01,C2H2,PUX2,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G51780,p02-r01-c02,bHLH,AT5G51780,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G47640,p02-r01-c03,bHLH,PYE,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G14580,p02-r01-c04,C2H2,AT1G14580,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT3G03750,p02-r01-c05,SET,SUVR3,Nucleus,Chromosome
+AT4G38000,p02-r01-c06,C2C2-DOF,DOF4.7,Nucleus,Chromosome
+AT4G11070,p02-r01-c07,WRKY,WRKY41,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G31220,p02-r01-c08,bHLH,bHLH010,Nucleus,"Nucleus, nucleolus; Nucleus, PML body; Chromosome"
+AT1G51600,p02-r01-c09,C2C2-GATA,ZML2,Nucleus,Chromosome
+AT1G19210,p02-r01-c10,AP2-EREBP,ERF017,Nucleus,Chromosome
+AT5G29000,p02-r01-c11,G2-like,PHL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G57560,p02-r01-c12,MYB,MYB50,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G38960,p02-r01-c13,Orphans,BBX19,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G29160,p02-r01-c14,C2C2-DOF,COG1,Nucleus,Chromosome
+AT3G20670,p02-r01-c15,CCAAT,HTA13,Nucleus,Chromosome
+AT5G06950,p02-r01-c16,bZIP,AtTGA2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G34410,p02-r01-c17,AP2-EREBP,ERF109,Nucleus,Chromosome
+AT1G17460,p02-r01-c18,MYB-related,TRFL3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G02060,p02-r01-c19,G2-like,AT2G02060,Nucleus,Chromosome
+AT2G44940,p02-r01-c20,AP2-EREBP,AT2G44940,Nucleus,Chromosome
+AT4G09180,p02-r01-c21,bHLH,FBH2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G10120,p02-r01-c22,bHLH,CIB4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G25400,p02-r01-c23,bHLH,AT4G25400,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G50700,p02-r01-c24,C2H2,AtIDD2,Nucleus,Nucleus speckle; Chromosome
+AT5G43170,p02-r02-c01,C2H2,AZF3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G34720,p02-r02-c02,CCAAT,NF-YA4,Nucleus,Chromosome
+AT1G59940,p02-r02-c03,Orphans,ARR3,Nucleus,Chromosome
+AT1G74930,p02-r02-c04,AP2-EREBP,ORA47,Nucleus,Chromosome
+AT4G11140,p02-r02-c05,AP2-EREBP,CRF1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G55730,p02-r02-c06,MYB,AtMYB109,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G00050,p02-r02-c07,bHLH,UNE10,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G66730,p02-r02-c08,C2H2,ENY,Nucleus,"Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G04890,p02-r02-c09,GRAS,SCL21,Nucleus,Chromosome
+AT1G56170,p02-r02-c10,CCAAT,HAP5B,Nucleus,Chromosome
+AT5G13910,p02-r02-c11,AP2-EREBP,LEP,Nucleus,Chromosome
+AT3G16500,p02-r02-c12,AUX-IAA,PAP1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G01780,p02-r02-c13,LIM,PLIM2b,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G24790,p02-r02-c14,C2C2-CO-like,BBX4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G77250,p02-r02-c15,PHD,AT1G77250,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G53420,p02-r02-c16,Orphans/,AT5G53420,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G24260,p02-r02-c17,bHLH,LRL1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G49450,p02-r02-c18,bZIP,bZIP1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G25620,p02-r02-c19,DBP,DBP1,Cytoplasm,"Cytoplasm, cytoskeleton; Cytoplasm, cytosol"
+AT4G01680,p02-r02-c20,MYB,AtMYB55,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G61590,p02-r02-c21,AP2-EREBP,DEWAX,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G63470,p02-r02-c22,CCAAT,NF-YC4,Nucleus,Chromosome
+AT5G54070,p02-r02-c23,HSF,HSFA9,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G20880,p02-r02-c24,AP2-EREBP,AtERF53,Nucleus,Chromosome
+AT4G28110,p02-r03-c01,MYB,MYB41,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G23250,p02-r03-c02,MYB,MYB15,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G22850,p02-r03-c03,bZIP,AtbZIP6,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G69810,p02-r03-c04,WRKY,ATWRKY36,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G69490,p02-r03-c05,NAC,NAP,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G13600,p02-r03-c06,bZIP,AtbZIP58,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT3G53200,p02-r03-c07,MYB,AtMYB27,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G50480,p02-r03-c08,CCAAT,NF-YC6,NucleusCytoplasm,"Chromosome; Cytoplasm, cytosol"
+AT5G59820,p02-r03-c09,C2H2,ZAT12,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G45249,p02-r03-c10,bZIP,AtABF2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G47120,p02-r03-c11,C3H,AT3G47120,Nucleus,"Nucleus, nucleoplasm; Nucleus speckle"
+AT2G36270,p02-r03-c12,bZIP,DPBF1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G31420,p02-r03-c13,C2H2,REIL1,Nucleus,Chromosome
+AT5G60970,p02-r03-c14,TCP,TCP5,Nucleus,Chromosome
+AT1G22190,p02-r03-c15,AP2-EREBP,RAP2.4,Nucleus,Chromosome
+AT5G61600,p02-r03-c16,AP2-EREBP,ERF104,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT1G80840,p02-r03-c17,WRKY,ATWRKY40,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G14560,p02-r03-c18,AUX-IAA,AXR5,Nucleus,Chromosome
+AT1G46480,p02-r03-c19,HB,WOX4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G49720,p02-r03-c20,bZIP,ABF1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G67100,p02-r03-c21,LOB,LBD40,Nucleus,Chromosome
+AT2G46770,p02-r03-c22,NAC,NST1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G46870,p02-r03-c23,ABI3-VP1,NGA1,Nucleus,Chromosome
+AT2G35530,p02-r03-c24,bZIP,AtbZIP16,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT3G49850,p02-r04-c01,MYB-related,TRB3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G28910,p02-r04-c02,MYB,MYB30,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G16430,p02-r04-c03,bHLH,JAM3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G21230,p02-r04-c04,bZIP,bZIP30,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G25160,p02-r04-c05,C2H2,ZFP3,Nucleus,Chromosome
+AT4G36240,p02-r04-c06,C2C2-GATA,GATA7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G25580,p02-r04-c07,NAC,SOG1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G65210,p02-r04-c08,bZIP,TGA1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G21450,p02-r04-c09,GRAS,SCL1,Nucleus,Chromosome
+AT3G48590,p02-r04-c10,CCAAT,HAP5A,Nucleus,Chromosome
+AT3G02830,p02-r04-c11,C3H,ZFN1,Nucleus,Nucleus speckle; Chromosome
+AT5G54230,p02-r04-c12,MYB,MYB49,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G07740,p02-r04-c13,MYB-related,HAC10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G47500,p02-r04-c14,C2C2-DOF,CDF3,Nucleus,Chromosome
+AT3G61830,p02-r04-c15,ARF,ARF18,Nucleus,Chromosome
+AT5G58850,p02-r04-c16,MYB,MYB119,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G44080,p02-r04-c17,bZIP,AT5G44080,Nucleus,Chromosome
+AT2G20825,p02-r04-c18,ULT,ULT2,Nucleus,Chromosome
+AT3G61460,p02-r04-c19,ND,BRH1,Golgi_apparatus,Golgi apparatus membrane
+AT5G39860,p02-r04-c20,bHLH,BHLH136,Nucleus,Chromosome
+AT1G47870,p02-r04-c21,E2F-DP,E2FC,Nucleus,"Nucleus, nucleolus"
+AT2G16210,p02-r04-c22,ABI3-VP1,REM24,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G27650,p02-r04-c23,C3H,ATU2AF35A,Nucleus,Nucleus speckle
+AT1G31630,p02-r04-c24,MADS,AGL86,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G66320,p02-r05-c01,C2C2-GATA,GATA5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G16560,p02-r05-c02,G2-like,KAN,Nucleus,Nucleus speckle; Chromosome
+AT4G11080,p02-r05-c03,HMG,3xHMG-box1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G53950,p02-r05-c04,NAC,CUC2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G78080,p02-r05-c05,AP2-EREBP,AtWIND1,Nucleus,Chromosome
+AT5G43290,p02-r05-c06,WRKY,WRKY49,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G37000,p02-r05-c07,TCP,AT2G37000,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G73830,p02-r05-c08,bHLH,BEE3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G21150,p02-r05-c09,Orphans,AtBBX32,Nucleus,Chromosome
+AT3G21330,p02-r05-c10,bHLH,AT3G21330,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G16770,p02-r05-c11,AP2-EREBP,ERF72,Membrane,Cell membrane
+AT1G08010,p02-r05-c12,C2C2-GATA,GATA11,Nucleus,Chromosome
+AT1G54330,p02-r05-c13,NAC,NAC020,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G67110,p02-r05-c14,bHLH,ALC,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G08000,p02-r05-c15,C2C2-GATA,GATA10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G66230,p02-r05-c16,MYB,MYB20,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G36540,p02-r05-c17,bHLH,BEE2,Nucleus,Chromosome
+AT1G02210,p02-r05-c18,NAC,AT1G02210,Nucleus,Chromosome
+AT1G53170,p02-r05-c19,AP2-EREBP,ATERF-8,Nucleus,Chromosome
+AT1G62975,p02-r05-c20,bHLH,AT1G62975,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G26960,p02-r05-c21,HB,AtHB23,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus membrane; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G71260,p02-r05-c22,PBF-2-like,WHY2,Mitochondrion,Mitochondrion inner membrane
+AT4G37790,p02-r05-c23,HB,HAT22,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT2G35910,p02-r05-c24,ND,AT2G35910,Endoplasmic,Endoplasmic reticulum membrane
+AT5G16470,p02-r06-c01,C2H2,MBS2,Nucleus,"Nucleus, nucleolus"
+AT1G75520,p02-r06-c02,SRS,SRS5,Nucleus,Nucleus speckle; Chromosome
+AT1G58100,p02-r06-c03,TCP,TCP8,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G16160,p02-r06-c04,CPP,AT3G16160,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G10350,p02-r06-c05,NAC,BRN2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G01370,p02-r06-c06,GeBP,AT2G01370,Nucleus,"Nucleus, nucleolus"
+AT3G20910,p02-r06-c07,CCAAT,NF-YA9,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G68240,p02-r06-c08,bHLH,AT1G68240,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G56860,p02-r06-c09,C2C2-GATA,GNC,Nucleus,Chromosome
+AT2G02540,p02-r06-c10,zf-HD,ZFHD4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G66160,p02-r06-c11,ND,ATRMR1,Golgi_apparatus,Golgi apparatus membrane
+AT1G19790,p02-r06-c12,SRS,SRS7,Nucleus,Chromosome
+AT5G20900,p02-r06-c13,ZIM,JAZ12,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G48500,p02-r06-c14,ZIM,AtJAZ4,Nucleus,Chromosome
+AT3G23690,p02-r06-c15,bHLH,CIL2,Nucleus,Nucleus speckle; Chromosome
+AT4G18770,p02-r06-c16,MYB,AtMYB98,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G74410,p02-r06-c17,ND,AT1G74410,Plastid,"Plastid, chloroplast thylakoid membrane"
+AT4G27330,p02-r06-c18,NOZZLE,NZZ,Nucleus,Chromosome
+AT5G23090,p02-r06-c19,CCAAT,NF-YB13,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G00130,p02-r06-c20,GeBP,AT4G00130,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT3G27940,p02-r06-c21,LOB,LBD26,Mitochondrion,Mitochondrion inner membrane
+AT3G06120,p02-r06-c22,bHLH,MUTE,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G22950,p02-r06-c23,MADS,GL19,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G28610,p02-r06-c24,HB,PRS1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G34600,p02-r07-c01,ZIM,TIFY5B,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G18270,p02-r07-c02,NAC,ANAC087,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G51060,p02-r07-c03,CCAAT,HTA10,Nucleus,Chromosome
+AT1G16640,p02-r07-c04,ABI3-VP1,AT1G16640,Nucleus,Chromosome
+AT4G18390,p02-r07-c05,TCP,TCP2,Nucleus,Chromosome
+AT3G26744,p02-r07-c06,bHLH,ICE1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G13080,p02-r07-c07,WRKY,WRKY75,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G02990,p02-r07-c08,HSF,ATHSFA1E,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G52830,p02-r07-c09,AUX-IAA,SHY1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G35700,p02-r07-c10,C2H2,DAZ3,Nucleus,Chromosome
+AT3G10595,p02-r07-c11,MYB,AT3G10595,Nucleus,Chromosome
+AT3G43440,p02-r07-c12,ZIM,JAZ11,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G60670,p02-r07-c13,PLATZ,AT3G60670,Nucleus,Chromosome
+AT5G18450,p02-r07-c14,AP2-EREBP,AT5G18450,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G40470,p02-r07-c15,LOB,LBD15,Nucleus,Chromosome
+AT3G62260,p02-r07-c16,DBP,AT3G62260,Cytoplasm,"Cytoplasm, cytosol"
+AT5G55690,p02-r07-c17,MADS,AT5G55690,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G23050,p02-r07-c18,AUX-IAA,IAA7,Nucleus,Chromosome
+AT3G17600,p02-r07-c19,AUX-IAA,IAA31,Nucleus,Chromosome
+AT5G54640,p02-r07-c20,CCAAT,HTA1,Nucleus,Chromosome
+AT1G71692,p02-r07-c21,MADS,XAL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G17460,p02-r07-c22,HB,HAT1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G21960,p02-r07-c23,AP2-EREBP,AT5G21960,Nucleus,Chromosome
+AT3G03760,p02-r07-c24,LOB,LBD20,Nucleus,Chromosome
+AT5G40880,p02-r08-c01,C3H,AT5G40880,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT4G01260,p02-r08-c02,GeBP,AT4G01260,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G07690,p02-r08-c03,MYB,MYB29,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G09820,p02-r08-c04,bHLH,AtTT8,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G01930,p02-r08-c05,BBR-BPC,ATBPC1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G00232,p02-r08-c06,GeBP,AT4G00232,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G08190,p02-r08-c07,CCAAT,NF-YB12,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G68200,p02-r08-c08,C3H,AtC3H15,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G37120,p02-r08-c09,S1Fa-like,AT2G37120,Endoplasmic,Endoplasmic reticulum membrane
+AT1G72570,p02-r08-c10,AP2-EREBP,AT1G72570,Nucleus,Chromosome
+AT5G17240,p02-r08-c11,SET,SDG40,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G77980,p02-r08-c12,MADS,AGL66,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G33450,p02-r08-c13,MYB,ATMYB69,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G74480,p02-r08-c14,RWP-RK,URP4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G05805,p02-r08-c15,bHLH,AKS2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G59530,p02-r08-c16,bZIP,bZIP4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G07650,p02-r08-c17,C2C2-CO-like,COL9,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G27220,p02-r08-c18,HB,BLH5,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G14410,p02-r08-c19,PBF-2-like,PTAC1,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT1G77200,p02-r08-c20,AP2-EREBP,AT1G77200,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G00270,p02-r08-c21,GeBP,GeBP,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G28500,p02-r08-c22,NAC,NAC073,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G61660,p02-r08-c23,bHLH,AtbHLH112,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G09780,p02-r08-c24,ABI3-VP1,REM25,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT1G51190,p02-r09-c01,AP2-EREBP,PLT2,Nucleus,Chromosome
+AT2G21530,p02-r09-c02,FHA,AT2G21530,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT5G45710,p02-r09-c03,HSF,AT-HSFA4C,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G24580,p02-r09-c04,ND,AT1G24580,Secreted,"Secreted, extracellular space"
+AT3G53310,p02-r09-c05,ABI3-VP1,AT3G53310,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G31180,p02-r09-c06,MYB,MYB14,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G46710,p02-r09-c07,PLATZ,AT5G46710,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G12840,p02-r09-c08,CCAAT,NF-YA1,Nucleus,Chromosome
+AT5G65130,p02-r09-c09,AP2-EREBP,WIND4,Nucleus,Chromosome
+AT5G07310,p02-r09-c10,AP2-EREBP,ERF115,Nucleus,Chromosome
+AT4G00220,p02-r09-c11,LOB,JLO,Nucleus,Chromosome
+AT5G06070,p02-r09-c12,C2H2,RBE,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G22640,p02-r09-c13,MYB,ATMYB3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G04370,p02-r09-c14,AP2-EREBP,ATERF14,Nucleus,Chromosome
+AT3G04070,p02-r09-c15,NAC,NAC047,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G75490,p02-r09-c16,AP2-EREBP,AT1G75490,Nucleus,Chromosome
+AT1G31320,p02-r09-c17,LOB,LBD4,Nucleus,Chromosome
+AT5G05610,p02-r09-c18,ALFIN-like,AL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G46590,p02-r09-c19,NAC,ANAC096,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G15160,p02-r09-c20,bHLH,BHLH134,Nucleus,Chromosome
+AT4G39780,p02-r09-c21,AP2-EREBP,AT4G39780,Nucleus,Chromosome
+AT1G54140,p02-r09-c22,ND,TAFII21,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G13570,p02-r09-c23,CCAAT,NF-YB7,Nucleus,Chromosome
+AT2G41070,p02-r09-c24,bZIP,EEL,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G31210,p02-r10-c01,bHLH,bHLH091,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G25330,p02-r10-c02,bHLH,CES,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G56900,p02-r10-c03,C3H,AT5G56900,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G60130,p02-r10-c04,ABI3-VP1,AT5G60130,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT3G61970,p02-r10-c05,ABI3-VP1,NGA2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G12630,p02-r10-c06,AP2-EREBP,AT1G12630,Nucleus,Chromosome
+AT2G33860,p02-r10-c07,ARF,ARF3,Nucleus,Chromosome
+AT1G28160,p02-r10-c08,AP2-EREBP,AT1G28160,Nucleus,Chromosome
+AT4G20280,p02-r10-c09,ND,TAF11,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G19184,p02-r10-c10,ABI3-VP1,AT3G19184,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G42040,p02-r10-c11,Orphans,AT2G42040,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G15248,p02-r10-c12,Orphans,BBX30,Nucleus,Chromosome
+AT1G19510,p02-r10-c13,MYB-related,RL5,Nucleus,"Nucleus, nucleolus"
+AT4G36590,p02-r10-c14,MADS,AT4G36590,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G67030,p02-r10-c15,C2H2,ZFP6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G18328,p02-r10-c16,MYB-related,RL4,Nucleus,Chromosome
+AT2G23760,p02-r10-c17,HB,BLH4,Nucleus,Nucleus speckle; Chromosome
+AT5G07700,p02-r10-c18,MYB,AtMYB76,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G34140,p02-r10-c19,C2C2-DOF,CDF4,Nucleus,Chromosome
+AT5G67411,p02-r10-c20,GRAS,AT5G67411,Mitochondrion,Mitochondrion matrix
+AT4G13480,p02-r10-c21,MYB,MYB79,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G12646,p02-r10-c22,PLATZ,AT2G12646,Nucleus,Chromosome
+AT3G11280,p02-r10-c23,MYB,AT3G11280,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G04150,p02-r10-c24,bHLH,BHLH101,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G30340,p02-r11-c01,LOB,LBD13,Nucleus,Chromosome
+AT1G72350,p02-r11-c02,MADS,AT1G72350,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G45190,p02-r11-c03,C2C2-YABBY,YAB1,Nucleus,Chromosome
+AT4G23550,p02-r11-c04,WRKY,ATWRKY29,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G54690,p02-r11-c05,CCAAT,H2AXB,Nucleus,Chromosome
+AT3G06380,p02-r11-c06,TUB,ATTLP9,Nucleus,Chromosome
+AT4G17810,p02-r11-c07,C2H2,AT4G17810,Nucleus,Chromosome
+AT1G14350,p02-r11-c08,MYB,AtMYB124,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G49950,p02-r11-c09,GRAS,AT3G49950,Nucleus,Chromosome
+AT2G27300,p02-r11-c10,NAC,ANAC040,Nucleus,Chromosome
+AT1G58110,p02-r11-c11,bZIP,AT1G58110,Nucleus,Chromosome
+AT4G18890,p02-r11-c12,BES1,BEH3,Nucleus,Chromosome
+AT5G44210,p02-r11-c13,AP2-EREBP,ATERF-9,Nucleus,Chromosome
+AT4G01280,p02-r11-c14,MYB-related,AT4G01280,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G71130,p02-r11-c15,AP2-EREBP,CRF8,Nucleus,Chromosome
+AT3G55080,p02-r11-c16,SET,AT3G55080,Cytoplasm,"Cytoplasm, cytosol"
+AT4G24540,p02-r11-c17,MADS,AGL24,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G53200,p02-r11-c18,MYB-related,TRY,Nucleus,"Nucleus, nucleolus; Nucleus membrane; Nucleus speckle; Chromosome"
+AT1G23420,p02-r11-c19,C2C2-YABBY,INO,Nucleus,Chromosome
+AT3G02940,p02-r11-c20,MYB,MYB107,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G33310,p02-r11-c21,AUX-IAA,IAA13,Nucleus,Chromosome
+AT5G14750,p02-r11-c22,MYB,MYB66,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G23030,p02-r11-c23,AUX-IAA,IAA2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G15170,p02-r11-c24,NAC,CUC1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G43700,p02-r12-c01,bZIP,SUE3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G43840,p02-r12-c02,HSF,HSFA6A,Nucleus,Chromosome
+AT3G54430,p02-r12-c03,SRS,SRS6,Plastid,"Plastid, chloroplast stroma"
+AT5G23000,p02-r12-c04,MYB,ATMYB37,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G17490,p02-r12-c05,GRAS,RGL3,Nucleus,Chromosome
+AT5G51990,p02-r12-c06,AP2-EREBP,CBF4,Nucleus,Chromosome
+AT1G28370,p02-r12-c07,AP2-EREBP,ERF11,Nucleus,Chromosome
+AT5G25470,p02-r12-c08,ABI3-VP1,AT5G25470,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G22670,p02-r12-c09,AUX-IAA,IAA8,Nucleus,Chromosome
+AT5G35900,p02-r12-c10,LOB,LBD35,Mitochondrion,Mitochondrion inner membrane
+AT2G03710,p02-r12-c11,MADS,44808,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G46970,p02-r12-c12,bHLH,PIL1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G60530,p02-r12-c13,C2C2-GATA,GATA4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G58340,p02-r12-c14,MYB-related,AT5G58340,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G47230,p02-r12-c15,AP2-EREBP,ERF5,Nucleus,Chromosome
+AT4G22700,p02-r12-c16,LOB,LBD32,Mitochondrion,Mitochondrion inner membrane
+AT3G57800,p02-r12-c17,bHLH,AT3G57800,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G36340,p02-r12-c18,GeBP,GPL3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G14030,p02-r12-c19,SET,LSMT-L,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT3G56520,p02-r12-c20,NAC,AT3G56520,Nucleus,Chromosome
+AT2G45680,p02-r12-c21,TCP,TCP9,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G26620,p02-r12-c22,LOB,LBD23,Mitochondrion,Mitochondrion inner membrane
+AT3G01330,p02-r12-c23,E2F-DP,E2FF,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G23650,p02-r12-c24,MYB,AT5G23650,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G15840,p02-r13-c01,C2C2-CO-like,BBX1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G38140,p02-r13-c02,CCAAT,NF-YC12,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G35570,p02-r13-c03,HMG,HMGD,Nucleus,Chromosome
+AT1G50640,p02-r13-c04,AP2-EREBP,ERF3,Nucleus,Chromosome
+AT1G62990,p02-r13-c05,HB,KNAT7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G53290,p02-r13-c06,AP2-EREBP,CRF3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G25440,p02-r13-c07,C3H,ZFWD1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G75250,p02-r13-c08,MYB-related,ATRL6,Nucleus,Chromosome
+AT1G74430,p02-r13-c09,MYB,MYB95,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G62380,p02-r13-c10,NAC,NAC101,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G04240,p02-r13-c11,AUX-IAA,SHY2,Nucleus,Chromosome
+AT1G12260,p02-r13-c12,NAC,NAC007,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G29080,p02-r13-c13,AUX-IAA,PAP2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G02640,p02-r13-c14,bZIP,BZO2H1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G49480,p02-r13-c15,ABI3-VP1,RTV1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G26210,p02-r13-c16,ALFIN-like,AL4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G23405,p02-r13-c17,HMG,AT5G23405,Nucleus,Chromosome
+AT1G10480,p02-r13-c18,C2H2,ZFP5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G59570,p02-r13-c19,G2-like,BOA,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G57520,p02-r13-c20,C2H2,ZFP2,Nucleus,Chromosome
+AT5G46690,p02-r13-c21,bHLH,bHLH071,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus, PML body; Chromosome"
+AT1G19860,p02-r13-c22,C3H,AT1G19860,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G03800,p02-r13-c23,AP2-EREBP,ERF10,Nucleus,Chromosome
+AT3G46090,p02-r13-c24,C2H2,ZAT7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G25890,p02-r14-c01,AUX-IAA,IAA28,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G15480,p02-r14-c02,C2H2,AT5G15480,Nucleus,Chromosome
+AT2G19810,p02-r14-c03,C3H,AtOZF1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G50470,p02-r14-c04,CCAAT,NF-YC7,Nucleus,Chromosome
+AT4G17500,p02-r14-c05,AP2-EREBP,AtERF#100,Nucleus,Chromosome
+AT1G10200,p02-r14-c06,LIM,WLIM1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G28920,p02-r14-c07,zf-HD,ZHD9,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G44750,p02-r14-c08,C2H2,HDA3,Nucleus,"Nucleus, nucleolus"
+AT2G24500,p02-r14-c09,C2H2,REIL2,Nucleus,Chromosome
+AT2G18350,p02-r14-c10,zf-HD,ZHD6,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G06850,p02-r14-c11,bZIP,AtbZIP52,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT3G44785,p02-r14-c12,C3H,AT3G44785,Plastid,"Plastid, chloroplast thylakoid membrane"
+AT2G31070,p02-r14-c13,TCP,TCP10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G18300,p02-r14-c14,NAC,NAC088,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G28360,p02-r14-c15,AP2-EREBP,ERF12,Nucleus,Chromosome
+AT5G43540,p02-r14-c16,C2H2,AT5G43540,Nucleus,Chromosome
+AT4G36990,p02-r14-c17,HSF,ATHSF4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G07050,p02-r14-c18,Orphans/,AT1G07050,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G40060,p02-r14-c19,HB,ATHB16,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G47655,p02-r14-c20,C2C2-DOF,AT1G47655,Nucleus,Chromosome
+AT4G27900,p02-r14-c21,Orphans/,AT4G27900,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G49475,p02-r14-c22,ABI3-VP1,AT1G49475,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G40140,p02-r14-c23,C3H,CZF1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G04445,p02-r14-c24,C2H2,AT1G04445,Mitochondrion,Mitochondrion inner membrane
+AT2G35000,p02-r15-c01,ND,ATL9,Membrane,Cell membrane
+AT4G32040,p02-r15-c02,HB,KNAT5,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G16750,p02-r15-c03,AP2-EREBP,AT4G16750,Nucleus,Chromosome
+AT5G42630,p02-r15-c04,G2-like,KAN4,Nucleus,"Nucleus, nucleolus; Nucleus membrane; Nucleus speckle; Chromosome"
+AT3G15540,p02-r15-c05,AUX-IAA,IAA19,Nucleus,Chromosome
+AT2G31720,p02-r15-c06,ND,AT2G31720,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G29280,p02-r15-c07,WRKY,ATWRKY65,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G43270,p02-r15-c08,SBP,SPL2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G28190,p02-r15-c09,ULT,ULT1,Nucleus,Chromosome
+AT5G24520,p02-r15-c10,ND,TTG1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G09230,p02-r15-c11,MYB,SRM1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G20350,p02-r15-c12,AP2-EREBP,AT2G20350,Nucleus,Chromosome
+AT5G15210,p02-r15-c13,zf-HD,ATHB30,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G01970,p02-r15-c14,WRKY,WRKY45,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G35310,p02-r15-c15,ABI3-VP1,REM23,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G06180,p02-r15-c16,MYB,ATMYB13,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G01520,p02-r15-c17,MYB-related,ASG4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G41710,p02-r15-c18,AP2-EREBP,AT2G41710,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G26950,p02-r15-c19,MADS,AGL93,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G08500,p02-r15-c20,MYB,AtMYB83,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G13620,p02-r15-c21,AP2-EREBP,AT4G13620,Mitochondrion,Mitochondrion inner membrane
+AT1G09030,p02-r15-c22,CCAAT,NF-YB4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G53600,p02-r15-c23,C2H2,AT3G53600,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G36930,p02-r15-c24,bHLH,SPT,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G03040,p02-r16-c01,bHLH,AT1G03040,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G10470,p02-r16-c02,Orphans,ATRR1,Mitochondrion,Mitochondrion inner membrane
+AT4G05100,p02-r16-c03,MYB,MYB74,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G31310,p02-r16-c04,LOB,LBD14,Mitochondrion,Mitochondrion inner membrane
+AT4G28610,p02-r16-c05,G2-like,AtPHR1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G40670,p02-r16-c06,Orphans,ARR16,Nucleus,Chromosome
+AT5G66750,p02-r16-c07,SNF2,CHR1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G17900,p02-r16-c08,PLATZ,AT4G17900,Nucleus,Chromosome
+AT3G61890,p02-r16-c09,HB,ATHB-12,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G09240,p02-r16-c10,Coactivator,AT5G09240,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G04410,p02-r16-c11,NAC,ANAC078,Endoplasmic,Endoplasmic reticulum membrane
+AT1G03150,p02-r16-c12,GNAT,AT1G03150,Mitochondrion,Mitochondrion inner membrane
+AT1G54830,p02-r16-c13,CCAAT,NF-YC3,Nucleus,Chromosome
+AT1G03650,p02-r16-c14,GNAT,AT1G03650,Cytoplasm,"Cytoplasm, cytosol"
+AT1G18710,p02-r16-c15,MYB,AtMYB47,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G24040,p02-r16-c16,GNAT,AT1G24040,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT5G12870,p02-r16-c17,MYB,ATMYB46,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G26220,p02-r16-c18,GNAT,AT1G26220,Mitochondrion,Mitochondrion inner membrane
+AT2G33710,p02-r16-c19,AP2-EREBP,AT2G33710,Nucleus,Chromosome
+AT2G32030,p02-r16-c20,GNAT,AT2G32030,Cytoplasm,"Cytoplasm, cytosol"
+AT4G01460,p02-r16-c21,bHLH,AT4G01460,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G11340,p02-r16-c22,GNAT,AT5G11340,Cytoplasm,"Cytoplasm, cytoskeleton; Cytoplasm, cytosol"
+AT1G68520,p02-r16-c23,C2C2-CO-like,BBX14,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G15770,p02-r16-c24,GNAT,AtGNA1,Endoplasmic,Endoplasmic reticulum membrane
+AT3G22560,p03-r01-c01,GNAT,AT3G22560,Mitochondrion,Mitochondrion matrix
+AT3G50890,p03-r01-c02,zf-HD,HB28,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G54760,p03-r01-c03,ND,AGL85,NucleusCytoplasm,"Chromosome; Cytoplasm, cytoskeleton"
+AT5G23420,p03-r01-c04,HMG,HMGB6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G03500,p03-r01-c05,MED7,MED7B,Nucleus,Chromosome
+AT2G40350,p03-r01-c06,AP2-EREBP,AT2G40350,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G30424,p03-r01-c07,MYB-related,TCL2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G21080,p03-r01-c08,C2C2-DOF,DOF4.5,Nucleus,Chromosome
+AT3G17730,p03-r01-c09,NAC,NAC057,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G05800,p03-r01-c10,bHLH,AIF1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G64530,p03-r01-c11,NAC,ANAC104,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G17100,p03-r01-c12,bHLH,AIF3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G19910,p03-r01-c13,SOH1,MED31,Nucleus,Chromosome
+AT3G12130,p03-r01-c14,C3H,AT3G12130,Nucleus,Chromosome
+AT2G14880,p03-r01-c15,SWI/SNF-BAF60b,AT2G14880,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT1G76510,p03-r01-c16,ARID,AT1G76510,Nucleus,Chromosome
+AT2G35605,p03-r01-c17,SWI/SNF-BAF60b,AT2G35605,Mitochondrion,Mitochondrion inner membrane
+AT5G57420,p03-r01-c18,AUX-IAA,IAA33,Nucleus,Chromosome
+AT3G48600,p03-r01-c19,SWI/SNF-BAF60b,AT3G48600,Mitochondrion,Mitochondrion inner membrane
+AT1G11490,p03-r01-c20,C2H2,AT1G11490,Mitochondrion,Mitochondrion inner membrane
+AT1G12440,p03-r01-c21,zf-AN1,AT1G12440,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G68360,p03-r01-c22,C2H2,GIS3,Nucleus,Nucleus speckle; Chromosome
+AT3G28917,p03-r01-c23,zf-HD,MIF2,Nucleus,Chromosome
+AT2G28710,p03-r01-c24,C2H2,AT2G28710,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G43250,p03-r02-c01,CCAAT,NF-YC13,Nucleus,Chromosome
+AT5G14960,p03-r02-c02,E2F-DP,E2L1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G03720,p03-r02-c03,HSF,HSFA3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G51790,p03-r02-c04,bHLH,AT5G51790,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G09330,p03-r02-c05,NAC,NAC082,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G60440,p03-r02-c06,MADS,AGL62,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G15150,p03-r02-c07,HB,ATHB3,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT2G17770,p03-r02-c08,bZIP,FDP,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G01030,p03-r02-c09,ABI3-VP1,NGA3,Nucleus,Chromosome
+AT2G35430,p03-r02-c10,C3H,AT2G35430,Nucleus,Chromosome
+AT1G02065,p03-r02-c11,SBP,SPL8,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G13780,p03-r02-c12,GNAT,NAA10,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G05690,p03-r02-c13,TRAF,BT3,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G16800,p03-r02-c14,GNAT,AT5G16800,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G68510,p03-r02-c15,LOB,LBD42,Mitochondrion,Mitochondrion inner membrane
+AT1G62085,p03-r02-c16,mTERF,AT1G62085,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT2G24700,p03-r02-c17,ABI3-VP1,AT2G24700,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G62110,p03-r02-c18,mTERF,AT1G62110,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT2G36400,p03-r02-c19,GRF,AtGRF3,Nucleus,Nucleus speckle; Chromosome
+AT1G79580,p03-r02-c20,NAC,ANAC033,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G04380,p03-r02-c21,SET,SDG31,Nucleus,Chromosome
+AT1G06920,p03-r02-c22,OFP,ATOFP4,NucleusMitochondrion,Chromosome; Mitochondrion matrix
+AT3G07220,p03-r02-c23,FHA,AtFHA2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G52525,p03-r02-c24,OFP,ATOFP6,Mitochondrion,Mitochondrion inner membrane
+AT1G74950,p03-r03-c01,ZIM,TIFY10B,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G09290,p03-r03-c02,C2H2,TAC1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G26945,p03-r03-c03,ND,PRE6,Nucleus,Chromosome
+AT3G49930,p03-r03-c04,C2H2,AT3G49930,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G51200,p03-r03-c05,zf-AN1,AT1G51200,Cytoplasm,"Cytoplasm, cytoskeleton; Cytoplasm, cytosol"
+AT1G64000,p03-r03-c06,WRKY,WRKY56,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G60240,p03-r03-c07,ND,AT1G60240,Nucleus,"Nucleus, nucleolus"
+AT1G66550,p03-r03-c08,WRKY,ATWRKY67,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G32540,p03-r03-c09,zf-LSD1,LOL1,Nucleus,Chromosome
+AT3G58710,p03-r03-c10,WRKY,WRKY69,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G14700,p03-r03-c11,SART-1,AT3G14700,Nucleus,"Nucleus, nucleolus"
+AT4G23810,p03-r03-c12,WRKY,ATWRKY53,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G28857,p03-r03-c13,HLH,PRE5,Nucleus,Chromosome
+AT5G01900,p03-r03-c14,WRKY,WRKY62,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G46580,p03-r03-c15,MBD,MBD5,Nucleus,Chromosome
+AT2G22770,p03-r03-c16,bHLH,NAI1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT4G19630,p03-r03-c17,ND,AT4G19630,Nucleus,Chromosome
+AT1G14685,p03-r03-c18,BBR-BPC,ATBPC2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G20380,p03-r03-c19,zf-LSD1,LSD1,Mitochondrion,Mitochondrion inner membrane
+AT1G29950,p03-r03-c20,ND,AT1G29950,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G22745,p03-r03-c21,MBD,MBD1,Nucleus,Chromosome
+AT3G22100,p03-r03-c22,bHLH,AT3G22100,Nucleus,Chromosome
+AT4G22820,p03-r03-c23,zf-AN1,AT4G22820,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT4G29100,p03-r03-c24,ND,AT4G29100,Nucleus,Nucleus speckle; Chromosome
+AT3G09735,p03-r04-c01,S1Fa-like,AT3G09735,Endoplasmic,Endoplasmic reticulum membrane
+AT2G32550,p03-r04-c02,RCD1-like,AT2G32550,Nucleus,"Nucleus, nucleolus"
+AT3G50870,p03-r04-c03,C2C2-GATA,GATA18,Nucleus,Nucleus speckle; Chromosome
+AT3G11090,p03-r04-c04,LOB,LBD21,Nucleus,Chromosome
+AT3G51470,p03-r04-c05,DBP,AT3G51470,Cytoplasm,"Cytoplasm, cytosol"
+AT3G11260,p03-r04-c06,HB,WOX5B,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G59470,p03-r04-c07,FAR1,FRF1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G01940,p03-r04-c08,C2H2,SGR5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G54610,p03-r04-c09,GNAT,HAG01,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G01860,p03-r04-c10,C2H2,AT5G01860,Nucleus,Chromosome
+AT4G19985,p03-r04-c11,GNAT,AT4G19985,Mitochondrion,Mitochondrion inner membrane
+AT5G14010,p03-r04-c12,C2H2,KNU,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G18870,p03-r04-c13,mTERF,AT3G18870,Plastid,"Plastid, chloroplast stroma"
+AT3G58190,p03-r04-c14,LOB,LBD29,Nucleus,Chromosome
+AT2G03050,p03-r04-c15,mTERF,EMB93,Mitochondrion,Mitochondrion inner membrane
+AT5G67420,p03-r04-c16,LOB,ASL39,Nucleus,Chromosome
+AT5G23930,p03-r04-c17,mTERF,AT5G23930,Mitochondrion,Mitochondrion inner membrane
+AT1G04880,p03-r04-c18,ARID,AT1G04880,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G07900,p03-r04-c19,mTERF,AT5G07900,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT1G27660,p03-r04-c20,ND,AT1G27660,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G08790,p03-r04-c21,NAC,ATAF2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G31730,p03-r04-c22,ND,AT2G31730,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G18500,p03-r04-c23,OFP,OFP7,Mitochondrion,Mitochondrion inner membrane
+AT2G40200,p03-r04-c24,bHLH,AT2G40200,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G00416,p03-r05-c01,ND,MBD3,Nucleus,Chromosome
+AT1G03350,p03-r05-c02,BSD,AT1G03350,Nucleus,Chromosome
+AT4G12040,p03-r05-c03,zf-AN1,AtSAP7,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G10720,p03-r05-c04,BSD,AT1G10720,Nucleus,Chromosome
+AT5G18037,p03-r05-c05,ND,AT5G18037,Nucleus,Chromosome
+AT2G23320,p03-r05-c06,WRKY,AtWRKY15,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G27810,p03-r05-c07,ND,AT5G27810,Mitochondrion,Mitochondrion inner membrane
+AT3G58680,p03-r05-c08,MBF1,MBF1B,Nucleus,"Nucleus, nucleolus"
+AT5G27944,p03-r05-c09,MADS,AT5G27944,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G47900,p03-r05-c10,TUB,AtTLP3,Mitochondrion,Mitochondrion inner membrane
+AT5G59800,p03-r05-c11,ND,MBD7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G18090,p03-r05-c12,ABI3-VP1,AT5G18090,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G44745,p03-r05-c13,WRKY,WRKY12,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G64620,p03-r05-c14,C2C2-DOF,DOF1.8,Nucleus,Chromosome
+AT5G52830,p03-r05-c15,WRKY,WRKY27,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G12240,p03-r05-c16,C2H2,AT4G12240,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT4G04450,p03-r05-c17,WRKY,AtWRKY42,Nucleus,Chromosome
+AT1G75080,p03-r05-c18,BES1,BZR1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G37260,p03-r05-c19,WRKY,TTG2,Nucleus,"Nucleus, nucleolus; Nucleus membrane; Nucleus speckle; Chromosome"
+AT1G53910,p03-r05-c20,AP2-EREBP,RAP2.12,Membrane,Cell membrane
+AT1G21970,p03-r05-c21,CCAAT,EMB 212,Nucleus,Chromosome
+AT1G15720,p03-r05-c22,MYB-related,TRFL5,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G48150,p03-r05-c23,MADS,AT1G48150,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G79430,p03-r05-c24,G2-like,WDY,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G20800,p03-r06-c01,RCD1-like,AT3G20800,Nucleus,Chromosome
+AT4G00870,p03-r06-c02,bHLH,AT4G00870,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G80400,p03-r06-c03,ND,AT1G80400,Golgi_apparatus,Golgi apparatus membrane
+AT1G30970,p03-r06-c04,C2H2,SUF4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G22360,p03-r06-c05,SWI/SNF-BAF60b,AT4G22360,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G49520,p03-r06-c06,WRKY,ATWRKY48,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G34290,p03-r06-c07,SWI/SNF-BAF60b,AT4G34290,Mitochondrion,Mitochondrion inner membrane
+AT3G02380,p03-r06-c08,C2C2-CO-like,BBX3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G01890,p03-r06-c09,SWI/SNF-BAF60b,SWP73A,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G57180,p03-r06-c10,Orphans/,CIA2,Nucleus,"Nucleus, nucleolus"
+AT2G40450,p03-r06-c11,TRAF,AT2G40450,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G24860,p03-r06-c12,TRIHELIX,AT3G24860,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G01640,p03-r06-c13,TRAF,AT1G01640,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G24120,p03-r06-c14,G2-like,PHL2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G08455,p03-r06-c15,TRAF,AT4G08455,Nucleus,Chromosome
+AT5G24930,p03-r06-c16,C2C2-CO-like,COL4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G61600,p03-r06-c17,TRAF,POB1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT4G39410,p03-r06-c18,WRKY,ATWRKY13,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G22310,p03-r06-c19,ND,ATMBD8,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G07100,p03-r06-c20,WRKY,WRKY26,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G24250,p03-r06-c21,Orphans,AT1G24250,Nucleus,Chromosome
+AT5G51860,p03-r06-c22,MADS,AGL72,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G27580,p03-r06-c23,zf-AN1,AT2G27580,Cytoplasm,"Cytoplasm, cytoskeleton; Cytoplasm, cytosol"
+AT1G70510,p03-r06-c24,HB,KNAT2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G65300,p03-r07-c01,MADS,PHE2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G60580,p03-r07-c02,C2H2,AT3G60580,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G14210,p03-r07-c03,MADS,ANR1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G25475,p03-r07-c04,ABI3-VP1,AT5G25475,Mitochondrion,Mitochondrion matrix
+AT1G28450,p03-r07-c05,MADS,AGL58,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G78600,p03-r07-c06,Orphans,LZF1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G48670,p03-r07-c07,MADS,FEM111,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G24570,p03-r07-c08,WRKY,ATWRKY17,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G22590,p03-r07-c09,MADS,AGL87,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G38170,p03-r07-c10,ND,FRS9,Nucleus,Chromosome
+AT3G45170,p03-r07-c11,C2C2-GATA,GATA14,Nucleus,Chromosome
+AT2G46680,p03-r07-c12,HB,HB-7,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G24470,p03-r07-c13,C2C2-GATA,GATA25,Nucleus,Chromosome
+AT1G18400,p03-r07-c14,bHLH,BEE1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G18380,p03-r07-c15,C2C2-GATA,GATA20,Nucleus,Chromosome
+AT3G21270,p03-r07-c16,C2C2-DOF,DOF2,Nucleus,Chromosome
+AT1G80730,p03-r07-c17,C2H2,ATZFP1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G60120,p03-r07-c18,AP2-EREBP,TOE2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G23130,p03-r07-c19,C2H2,SUP,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G15210,p03-r07-c20,AP2-EREBP,RAP2.5,Nucleus,Chromosome
+AT1G02030,p03-r07-c21,C2H2,AT1G02030,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT1G54060,p03-r07-c22,TRIHELIX,ASIL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G25490,p03-r07-c23,AP2-EREBP,CBF1,Nucleus,Chromosome
+AT1G77450,p03-r07-c24,NAC,ANAC032,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G15790,p03-r08-c01,ND,ATMBD11,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G74650,p03-r08-c02,MYB,ATY13,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G21610,p03-r08-c03,zf-LSD1,LOL2,Nucleus,Chromosome
+AT2G43220,p03-r08-c04,ND,AT2G43220,Nucleus,Chromosome
+AT4G25380,p03-r08-c05,zf-AN1,AtSAP10,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G02820,p03-r08-c06,MYB,MYB88,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G19580,p03-r08-c07,C2H2,AZF2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G10120,p03-r08-c08,EIL,AT5G10120,Nucleus,Chromosome
+AT5G60100,p03-r08-c09,Pseudo,PRR3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G37590,p03-r08-c10,C2C2-DOF,ATDOF2.4,Nucleus,Chromosome
+AT1G06170,p03-r08-c11,bHLH,bHLH089,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G37540,p03-r08-c12,LOB,LBD39,Nucleus,Chromosome
+AT2G32905,p03-r08-c13,REM(B3),AT2G32905,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G19270,p03-r08-c14,Orphans,DA1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G05760,p03-r08-c15,C2H2,AT3G05760,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G56160,p03-r08-c16,MYB,ATMYB72,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G61850,p03-r08-c17,C2C2-DOF,DAG1,Nucleus,Chromosome
+AT1G01160,p03-r08-c18,GIF,GIF2,Nucleus,Chromosome
+AT1G55760,p03-r08-c19,TRAF,AT1G55760,Nucleus,Chromosome
+AT4G27310,p03-r08-c20,Orphans,BBX28,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G22800,p03-r08-c21,HB,HAT9,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G25440,p03-r08-c22,C2C2-CO-like,BBX15,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G01550,p03-r08-c23,NAC,NTM2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G24590,p03-r08-c24,ND,RSZ22a,Nucleus,"Nucleus, nucleoplasm; Nucleus speckle"
+AT1G03970,p03-r09-c01,bZIP,GBF4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G22200,p03-r09-c02,AP2-EREBP,AT2G22200,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G02150,p03-r09-c03,TCP,TFPD,Nucleus,Chromosome
+AT3G04730,p03-r09-c04,AUX-IAA,IAA16,Nucleus,Chromosome
+AT5G42820,p03-r09-c05,C3H,ATU2AF35B,Nucleus,Nucleus speckle
+AT1G73870,p03-r09-c06,C2C2-CO-like,COL7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G17380,p03-r09-c07,ZIM,TIFY11A,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G06550,p03-r09-c08,JUMONJI,JMJ22,Nucleus,"Nucleus, nucleolus"
+AT3G21175,p03-r09-c09,C2C2-GATA,TIFY2B,Nucleus,Chromosome
+AT5G39660,p03-r09-c10,C2C2-DOF,CDF2,Nucleus,Chromosome
+AT4G36730,p03-r09-c11,bZIP,AtGBF1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G77640,p03-r09-c12,AP2-EREBP,AT1G77640,Nucleus,Chromosome
+AT1G24610,p03-r09-c13,SET,AT1G24610,Nucleus,Chromosome
+AT1G34190,p03-r09-c14,NAC,ANAC017,Endoplasmic,Endoplasmic reticulum membrane
+AT5G60910,p03-r09-c15,MADS,FUL,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G26580,p03-r09-c16,C2C2-YABBY,YAB5,Nucleus,Chromosome
+AT5G61430,p03-r09-c17,NAC,NAC100,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G33880,p03-r09-c18,bHLH,RSL2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G19520,p03-r09-c19,ND,ACG1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G04100,p03-r09-c20,AUX-IAA,IAA10,Nucleus,Chromosome
+AT4G23860,p03-r09-c21,PHD,AT4G23860,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G41370,p03-r09-c22,TRAF,BOP2,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G70700,p03-r09-c23,ZIM,JAZ9,Nucleus,Chromosome
+AT5G05790,p03-r09-c24,MYB,AT5G05790,Nucleus,Chromosome
+AT1G02220,p03-r10-c01,NAC,NAC003,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G14260,p03-r10-c02,SET,AT5G14260,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma; Plastid, chloroplast thylakoid lumen; Plastid, chloroplast thylakoid membrane"
+AT1G33280,p03-r10-c03,NAC,ANAC015,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G31550,p03-r10-c04,WRKY,ATWRKY11,Nucleus,Chromosome
+AT1G63910,p03-r10-c05,MYB,AtMYB103,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G76110,p03-r10-c06,ARID,AT1G76110,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G39880,p03-r10-c07,MYB,AtMYB25,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G18550,p03-r10-c08,C3H,AT5G18550,Nucleus,Nucleus speckle; Chromosome
+AT4G22680,p03-r10-c09,MYB,MYB85,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G22890,p03-r10-c10,C2H2,STOP2,Nucleus,Nucleus speckle; Chromosome
+AT4G37780,p03-r10-c11,MYB,ATMYB87,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G13330,p03-r10-c12,AP2-EREBP,Rap2.6L,Nucleus,Chromosome
+AT1G66370,p03-r10-c13,MYB,MYB113,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G51910,p03-r10-c14,HSF,AT-HSFA7A,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G42660,p03-r10-c15,G2-like,AT2G42660,Nucleus,Chromosome
+AT1G66350,p03-r10-c16,GRAS,RGL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G24310,p03-r10-c17,MYB,MYB305,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G17570,p03-r10-c18,C2C2-GATA,GATA26,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT5G62470,p03-r10-c19,MYB,MYB96,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G51700,p03-r10-c20,C2C2-DOF,DOF1,Nucleus,Chromosome
+AT1G75710,p03-r10-c21,C2H2,AT1G75710,Nucleus,Chromosome
+AT5G48150,p03-r10-c22,GRAS,PAT1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G03150,p03-r10-c23,C2H2,JKD,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G28160,p03-r10-c24,bHLH,BHLH029,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G64860,p03-r11-c01,SIGMA70-like,SIG1,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT1G30135,p03-r11-c02,ZIM,JAZ8,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G01120,p03-r11-c03,bZIP,GBF2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G48040,p03-r11-c04,DBP,AT1G48040,Cytoplasm,"Cytoplasm, cytosol"
+AT4G36860,p03-r11-c05,LIM,DAR1,Nucleus,Chromosome
+AT2G38090,p03-r11-c06,MYB,AT2G38090,Nucleus,Chromosome
+AT1G07360,p03-r11-c07,C3H,MAC5A,Nucleus,Chromosome
+AT3G42860,p03-r11-c08,zf-GRF,AT3G42860,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G48100,p03-r11-c09,Orphans,ARR5,Nucleus,Chromosome
+AT2G18850,p03-r11-c10,SET,AT2G18850,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G46590,p03-r11-c11,MYB-related,TRP2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G21910,p03-r11-c12,AP2-EREBP,DREB26,Nucleus,Chromosome
+AT2G45650,p03-r11-c13,MADS,AGL6,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G71930,p03-r11-c14,NAC,ANAC030,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G27580,p03-r11-c15,MADS,AGL89,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G40340,p03-r11-c16,AP2-EREBP,DREB2C,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G59990,p03-r11-c17,Orphans/,AT5G59990,Nucleus,Chromosome
+AT1G68130,p03-r11-c18,C2H2,IDD14alpha,Nucleus,"Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G63170,p03-r11-c19,ND,AT1G63170,Endoplasmic,Endoplasmic reticulum membrane
+AT5G41920,p03-r11-c20,GRAS,AtSCL23,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G46160,p03-r11-c21,ND,AT2G46160,Membrane,Cell membrane
+AT5G47220,p03-r11-c22,AP2-EREBP,ATERF-2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G32600,p03-r11-c23,C2H2,AT2G32600,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G42520,p03-r11-c24,BBR-BPC,BBR/BPC6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G46830,p03-r12-c01,bHLH,MYC5,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G22070,p03-r12-c02,bZIP,TGA3,Nucleus,"Nucleus, nucleolus"
+AT1G02340,p03-r12-c03,bHLH,RSF1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G26805,p03-r12-c04,REM(B3),AT5G26805,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G06160,p03-r12-c05,AP2-EREBP,ORA59,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G13540,p03-r12-c06,MYB,ATMYB5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G23230,p03-r12-c07,AP2-EREBP,AtTDR1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G54160,p03-r12-c08,CCAAT,NFYA5,Nucleus,Chromosome
+AT5G61890,p03-r12-c09,AP2-EREBP,AT5G61890,Nucleus,Chromosome
+AT4G37740,p03-r12-c10,GRF,AtGRF2,Nucleus,"Nucleus, nucleolus; Nucleus membrane; Nucleus speckle; Chromosome"
+AT5G63260,p03-r12-c11,C3H,AT5G63260,Nucleus,Chromosome
+AT5G66980,p03-r12-c12,ABI3-VP1,AT5G66980,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT4G26030,p03-r12-c13,C2H2,AT4G26030,Mitochondrion,Mitochondrion inner membrane
+AT4G25210,p03-r12-c14,GeBP,AT4G25210,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G03500,p03-r12-c15,G2-like,EFM,Nucleus,Nucleus speckle; Chromosome
+AT3G20550,p03-r12-c16,FHA,DDL,Nucleus,"Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G15050,p03-r12-c17,AUX-IAA,IAA34,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G04845,p03-r12-c18,GNAT,AT2G04845,Mitochondrion,Mitochondrion inner membrane
+AT5G62020,p03-r12-c19,HSF,HSFB2A,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G67180,p03-r12-c20,AP2-EREBP,TOE3,Nucleus,Chromosome
+AT1G19040,p03-r12-c21,NAC,AT1G19040,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G04250,p03-r12-c22,AUX-IAA,AtIAA17,Nucleus,Chromosome
+AT2G42280,p03-r12-c23,bHLH,FBH4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G49330,p03-r12-c24,MYB,PFG3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G18010,p03-r13-c01,HB,WOX1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G79700,p03-r13-c02,AP2-EREBP,WRI4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G66380,p03-r13-c03,MYB,AtMYB114,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G51070,p03-r13-c04,bHLH,bHLH115,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G65510,p03-r13-c05,AP2-EREBP,PLT7,Nucleus,Chromosome
+AT5G63160,p03-r13-c06,TRAF,BT1,Nucleus,Chromosome
+AT2G28810,p03-r13-c07,C2C2-DOF,AT2G28810,Nucleus,Chromosome
+AT4G27240,p03-r13-c08,C2H2,AT4G27240,Nucleus,"Nucleus, nucleolus"
+AT3G10760,p03-r13-c09,G2-like,AT3G10760,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G18240,p03-r13-c10,G2-like,ATMYR1,Nucleus,Chromosome
+AT1G69580,p03-r13-c11,G2-like,AT1G69580,Nucleus,Chromosome
+AT5G02840,p03-r13-c12,MYB-related,LCL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G18550,p03-r13-c13,HB,ATHB21,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G13640,p03-r13-c14,G2-like,UNE16,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G19790,p03-r13-c15,AP2-EREBP,RAP2.11,Nucleus,Chromosome
+AT2G01760,p03-r13-c16,ARR-B,RR14,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G66390,p03-r13-c17,MYB,ATMYB90,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G19490,p03-r13-c18,bZIP,AT1G19490,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G23800,p03-r13-c19,HMG,3xHMG-box2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G34680,p03-r13-c20,C2C2-GATA,GATA3,Nucleus,Chromosome
+AT3G20810,p03-r13-c21,JUMONJI,JMJ30,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G35040,p03-r13-c22,bZIP,bZIP19,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G09540,p03-r13-c23,MYB,ATMYB61,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G01060,p03-r13-c24,G2-like,AT2G01060,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G54990,p03-r14-c01,AP2-EREBP,SMZ,Nucleus,Chromosome
+AT5G01380,p03-r14-c02,TRIHELIX,AT5G01380,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G64105,p03-r14-c03,NAC,ANAC027,Nucleus,Chromosome
+AT2G40970,p03-r14-c04,G2-like,MYBC1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G77570,p03-r14-c05,HSF,REN1,Mitochondrion,Mitochondrion inner membrane
+AT4G03170,p03-r14-c06,ABI3-VP1,AT4G03170,Nucleus,"Nucleus, nucleolus"
+AT5G50570,p03-r14-c07,SBP,SPL13,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G02250,p03-r14-c08,NAC,ANAC005,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G18490,p03-r14-c09,C2H2,GAZ,Nucleus,Chromosome
+AT4G34990,p03-r14-c10,MYB,AtMYB32,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G54360,p03-r14-c11,C2H2,AT5G54360,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G63040,p03-r14-c12,ND,No Symbol,-,-
+AT1G63820,p03-r14-c13,Orphans/,AT1G63820,Nucleus,Chromosome
+AT1G34670,p03-r14-c14,MYB,AtMYB93,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G40210,p03-r14-c15,MADS,AGL48,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G57670,p03-r14-c16,C2H2,WIP2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G11100,p03-r14-c17,TRIHELIX,VFP3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G64625,p03-r14-c18,bHLH,LL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G66420,p03-r14-c19,GeBP,AT1G66420,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G10570,p03-r14-c20,bHLH,AT5G10570,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G76870,p03-r14-c21,TRIHELIX,AT1G76870,Nucleus,Chromosome
+AT1G26300,p03-r14-c22,BSD,AT1G26300,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G15740,p03-r14-c23,C2H2,AT2G15740,Nucleus,Chromosome
+AT3G49800,p03-r14-c24,BSD,AT3G49800,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G52260,p03-r15-c01,MYB,AtMYB19,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G16720,p03-r15-c02,MYB,ATMYB7,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G13960,p03-r15-c03,MYB-related,AT2G13960,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G25220,p03-r15-c04,HB,KNAT3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G25990,p03-r15-c05,TRIHELIX,AT3G25990,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G51190,p03-r15-c06,AP2-EREBP,ERF105,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G47660,p03-r15-c07,TRIHELIX,AT5G47660,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G42790,p03-r15-c08,ALFIN-like,AL3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G37800,p03-r15-c09,bHLH,RSL1,Nucleus,Chromosome
+AT1G60380,p03-r15-c10,NAC,AT1G60380,Nucleus,Chromosome
+AT5G61270,p03-r15-c11,bHLH,PIF7,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G06220,p03-r15-c12,ABI3-VP1,AT3G06220,Nucleus,Chromosome
+AT2G41690,p03-r15-c13,HSF,HSFB3,Nucleus,Chromosome
+AT4G00390,p03-r15-c14,GeBP,AT4G00390,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G01250,p03-r15-c15,AP2-EREBP,AT1G01250,Nucleus,Chromosome
+AT5G64340,p03-r15-c16,bHLH,SAC51,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G63030,p03-r15-c17,AP2-EREBP,ddf2,Nucleus,Chromosome
+AT1G43770,p03-r15-c18,PHD,AT1G43770,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G25730,p03-r15-c19,AP2-EREBP,EDF3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G70000,p03-r15-c20,MYB-related,MYBD,Nucleus,Chromosome
+AT5G18560,p03-r15-c21,AP2-EREBP,PUCHI,Nucleus,Chromosome
+AT4G00250,p03-r15-c22,GeBP,AtSTKL2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G20100,p03-r15-c23,ND,AT2G20100,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G24660,p03-r15-c24,zf-HD,MEE68,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G37740,p03-r16-c01,C2H2,ATZFP10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G55770,p03-r16-c02,LIM,WLIM2b,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G09750,p03-r16-c03,bHLH,HEC3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G54340,p03-r16-c04,MADS,AP3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G18960,p03-r16-c05,MYB-related,AT1G18960,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G16845,p03-r16-c06,ND,VRN2,Nucleus,Chromosome
+AT1G27740,p03-r16-c07,bHLH,RSL4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G01530,p03-r16-c08,MYB,ATMYB57,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G32770,p03-r16-c09,NAC,NST3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G17300,p03-r16-c10,MYB-related,RVE1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G43000,p03-r16-c11,PLATZ,AT1G43000,Nucleus,Chromosome
+AT3G54810,p03-r16-c12,C2C2-GATA,BME3,Nucleus,Chromosome
+AT1G55650,p03-r16-c13,ARID,AT1G55650,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G33610,p03-r16-c14,MYB-related,SWI3B,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G01818,p03-r16-c15,PLATZ,AT2G01818,Nucleus,Chromosome
+AT4G12670,p03-r16-c16,MYB-related,AT4G12670,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G27930,p03-r16-c17,PLATZ,AT2G27930,Nucleus,Chromosome
+AT5G66270,p03-r16-c18,C3H,AT5G66270,Nucleus,Chromosome
+AT2G30432,p03-r16-c19,MYB-related,TCL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G67480,p03-r16-c20,TAZ,BT4,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G04280,p03-r16-c21,Orphans,RR22,Cytoplasm,"Cytoplasm, cytosol"
+AT1G19700,p03-r16-c22,HB,BLH10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G17010,p03-r16-c23,ABI3-VP1,REM22,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G22290,p03-r16-c24,NAC,NAC089,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G18160,p04-r01-c01,bZIP,GBF5,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus membrane; Nucleus speckle; Chromosome"
+AT3G26790,p04-r01-c02,ABI3-VP1,FUS3,Nucleus,Chromosome
+AT5G54630,p04-r01-c03,C2H2,AT5G54630,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G38470,p04-r01-c04,WRKY,WRKY33,Nucleus,Chromosome
+AT2G22430,p04-r01-c05,HB,HB6,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G59810,p04-r01-c06,MADS,AGL50,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G75340,p04-r01-c07,C3H,AT1G75340,Nucleus,Nucleus membrane; Chromosome
+AT1G31140,p04-r01-c08,MADS,GOA,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G17880,p04-r01-c09,bHLH,MYC4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G49300,p04-r01-c10,C2C2-GATA,GATA16,Nucleus,Chromosome
+AT5G59430,p04-r01-c11,MYB-related,TRP1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G28200,p04-r01-c12,C2H2,AT2G28200,Nucleus,Nucleus speckle; Chromosome
+AT5G46760,p04-r01-c13,bHLH,MYC3,Nucleus,"Nucleus, nucleolus; Nucleus, PML body; Chromosome"
+AT4G04890,p04-r01-c14,HB,PDF2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G60630,p04-r01-c15,GRAS,ATHAM2,Nucleus,Chromosome
+AT5G16540,p04-r01-c16,C3H,ZFN3,Nucleus,Nucleus speckle; Chromosome
+AT1G73730,p04-r01-c17,EIL,AtEIL3,Nucleus,"Nucleus, nucleolus"
+AT2G47620,p04-r01-c18,MYB-related,SWI3A,Nucleus,Chromosome
+AT2G46040,p04-r01-c19,ARID,ARID1,Nucleus,"Nucleus, nucleolus"
+AT1G22985,p04-r01-c20,AP2-EREBP,CRF7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G15420,p04-r01-c21,C2H2,AT4G15420,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G45880,p04-r01-c22,JUMONJI,JMJ32,Nucleus,Chromosome
+AT4G29930,p04-r01-c23,bHLH,AT4G29930,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G22540,p04-r01-c24,MADS,AGL22,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G50010,p04-r02-c01,bHLH,AT5G50010,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G68640,p04-r02-c02,bZIP,TGA8,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G01260,p04-r02-c03,bHLH,JAM2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G64810,p04-r02-c04,WRKY,ATWRKY51,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G08540,p04-r02-c05,SIGMA70-like,SIGA,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT1G53230,p04-r02-c06,TCP,TCP3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G33835,p04-r02-c07,C3H,FES1,Nucleus,Chromosome
+AT4G21440,p04-r02-c08,MYB,ATM4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G24260,p04-r02-c09,MADS,44807,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G14760,p04-r02-c10,bHLH,AT2G14760,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT1G61970,p04-r02-c11,mTERF,AT1G61970,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT5G43620,p04-r02-c12,C2H2,AT5G43620,Nucleus,Chromosome
+AT2G33720,p04-r02-c13,REM(B3),AT2G33720,Nucleus,Chromosome
+AT1G04500,p04-r02-c14,Orphans/,AT1G04500,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G40740,p04-r02-c15,WRKY,ATWRKY55,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G02170,p04-r02-c16,PEPTIDASE_C14,ATMC1,Nucleus,Chromosome
+AT2G40750,p04-r02-c17,WRKY,WRKY54,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G13960,p04-r02-c18,WRKY,WRKY4,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G02030,p04-r02-c19,HB,PNY,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G28470,p04-r02-c20,NAC,NAC010,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G26960,p04-r02-c21,MYB,MYB81,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G47270,p04-r02-c22,TUB,TLP6,Mitochondrion,Mitochondrion inner membrane
+AT1G68190,p04-r02-c23,Orphans,BBX27,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G56010,p04-r02-c24,NAC,NAC1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G65640,p04-r03-c01,bHLH,NFL,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G41315,p04-r03-c02,bHLH,GL3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G55580,p04-r03-c03,GRAS,SCL18,Nucleus,Chromosome
+AT3G03660,p04-r03-c04,HB,WOX11,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus membrane; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G76420,p04-r03-c05,NAC,ANAC031,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G43000,p04-r03-c06,NAC,ANAC042,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G80590,p04-r03-c07,WRKY,ATWRKY66,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G39820,p04-r03-c08,NAC,ANAC094,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G01600,p04-r03-c09,NAC,NAC044,NucleusMitochondrion,Chromosome; Mitochondrion matrix
+AT2G45160,p04-r03-c10,GRAS,LOM1,Nucleus,Chromosome
+AT4G02670,p04-r03-c11,C2H2,IDD12,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT3G13840,p04-r03-c12,GRAS,AT3G13840,Nucleus,Chromosome
+AT4G14720,p04-r03-c13,ZIM,PPD2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G26780,p04-r03-c14,MYB,LOF1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G36160,p04-r03-c15,NAC,ANAC076,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G65590,p04-r03-c16,C2C2-DOF,SCAP1,Nucleus,Chromosome
+AT5G19490,p04-r03-c17,CCAAT,AT5G19490,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G21890,p04-r03-c18,Orphans,BBX31,Nucleus,Chromosome
+AT5G57390,p04-r03-c19,AP2-EREBP,CHO1,Nucleus,Chromosome
+AT4G12210,p04-r03-c20,ND,AT4G12210,Nucleus,Chromosome
+AT3G21350,p04-r03-c21,MED6,MED6,Nucleus,Chromosome
+AT3G46070,p04-r03-c22,C2H2,AT3G46070,Nucleus,Chromosome
+AT1G62120,p04-r03-c23,mTERF,AT1G62120,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT2G36080,p04-r03-c24,ABI3-VP1,NGAL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G65310,p04-r04-c01,HB,HB5,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus matrix; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT2G47850,p04-r04-c02,C3H,AT2G47850,Nucleus,Nucleus speckle; Chromosome
+AT3G55370,p04-r04-c03,C2C2-DOF,OBP3,Secreted,"Secreted, extracellular space"
+AT1G61730,p04-r04-c04,GeBP,AT1G61730,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G31660,p04-r04-c05,ABI3-VP1,AT4G31660,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G00610,p04-r04-c06,GeBP,AT4G00610,Mitochondrion,Mitochondrion inner membrane
+AT2G01200,p04-r04-c07,AUX-IAA,IAA32,Nucleus,Chromosome
+AT1G13400,p04-r04-c08,C2H2,NUB,Nucleus,Nucleus speckle; Chromosome
+AT5G47670,p04-r04-c09,CCAAT,L1L,Nucleus,Chromosome
+AT1G32240,p04-r04-c10,G2-like,KAN2,Nucleus,Nucleus speckle; Chromosome
+AT3G27810,p04-r04-c11,MYB,MYB21,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G46264,p04-r04-c12,HSF,AT-HSFB4,Nucleus,Chromosome
+AT3G66656,p04-r04-c13,MADS,AGL91,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G48195,p04-r04-c14,C3H,AT1G48195,Nucleus,Chromosome
+AT5G58890,p04-r04-c15,MADS,AGL82,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G11260,p04-r04-c16,bZIP,HY5,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G17590,p04-r04-c17,CCAAT,NF-YA8,Nucleus,Chromosome
+AT1G01350,p04-r04-c18,C3H,AT1G01350,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G74080,p04-r04-c19,MYB,ATMYB122,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G01920,p04-r04-c20,SET,AT1G01920,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G60040,p04-r04-c21,MADS,AGL49,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G60700,p04-r04-c22,FHA,AT1G60700,Nucleus,Chromosome
+AT1G69540,p04-r04-c23,MADS,AGL94,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G75530,p04-r04-c24,FHA,AT1G75530,Nucleus,Chromosome
+AT1G78930,p04-r05-c01,mTERF,AT1G78930,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma; Plastid, chloroplast thylakoid lumen; Plastid, chloroplast thylakoid membrane"
+AT4G23750,p04-r05-c02,AP2-EREBP,CRF2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G44020,p04-r05-c03,mTERF,AT2G44020,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT5G16600,p04-r05-c04,MYB,AtMYB43,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G14605,p04-r05-c05,mTERF,MDA1,Plastid,"Plastid, chloroplast stroma"
+AT5G14340,p04-r05-c06,MYB,MYB40,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G18060,p04-r05-c07,NAC,VND1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G15310,p04-r05-c08,MYB,MYB16,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G05420,p04-r05-c09,OFP,OFP12,Mitochondrion,Mitochondrion inner membrane
+AT2G38250,p04-r05-c10,TRIHELIX,AT2G38250,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G36050,p04-r05-c11,OFP,ATOFP15,Cytoplasm,"Cytoplasm, cytosol"
+AT1G44830,p04-r05-c12,AP2-EREBP,AT1G44830,Nucleus,Chromosome
+AT2G30400,p04-r05-c13,OFP,ATOFP2,Nucleus,Chromosome
+AT3G25790,p04-r05-c14,G2-like,HHO,Nucleus,Nucleus speckle; Chromosome
+AT5G19650,p04-r05-c15,OFP,ATOFP8,Mitochondrion,Mitochondrion inner membrane
+AT5G12330,p04-r05-c16,SRS,LRP1,Nucleus,Chromosome
+AT1G49520,p04-r05-c17,SWI/SNF-BAF60b,AT1G49520,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G21320,p04-r05-c18,Orphans,BBX18,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G13730,p04-r05-c19,SIGMA70-like,SIG4,Plastid,"Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT5G03510,p04-r05-c20,C2H2,AT5G03510,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G45110,p04-r05-c21,TRAF,NPR3,Nucleus,Chromosome
+AT5G05120,p04-r05-c22,C2H2,AT5G05120,Nucleus,Chromosome
+AT5G48510,p04-r05-c23,TRAF,AT5G48510,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G06650,p04-r05-c24,C2H2,GIS2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G62610,p04-r06-c01,MYB,ATMYB11,Nucleus,Chromosome
+AT2G21240,p04-r06-c02,BBR-BPC,BPC4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G80390,p04-r06-c03,AUX-IAA,IAA15,Nucleus,Chromosome
+AT2G22840,p04-r06-c04,GRF,AtGRF1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G07340,p04-r06-c05,bHLH,CIB3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G36010,p04-r06-c06,E2F-DP,E2F3,Nucleus,Chromosome
+AT1G12610,p04-r06-c07,AP2-EREBP,ATDDF1,Nucleus,Chromosome
+AT2G45480,p04-r06-c08,GRF,AtGRF9,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G51120,p04-r06-c09,AP2-EREBP,AT1G51120,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G10920,p04-r06-c10,Coactivator,KELP,Nucleus,Chromosome
+AT5G11590,p04-r06-c11,AP2-EREBP,TINY2,Nucleus,Nucleus speckle; Chromosome
+AT4G36920,p04-r06-c12,AP2-EREBP,AP2,Nucleus,Chromosome
+AT5G17430,p04-r06-c13,AP2-EREBP,BBM,Nucleus,Chromosome
+AT5G49420,p04-r06-c14,MADS,AT5G49420,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G12680,p04-r06-c15,C3H,HUA1,Nucleus,Nucleus speckle; Chromosome
+AT1G34370,p04-r06-c16,C2H2,AtSTOP1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT3G48440,p04-r06-c17,C3H,AT3G48440,Nucleus,Nucleus speckle; Chromosome
+AT3G06410,p04-r06-c18,C3H,AT3G06410,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G55980,p04-r06-c19,C3H,SZF1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G23660,p04-r06-c20,LOB,LBD10,Mitochondrion,Mitochondrion inner membrane
+AT2G43060,p04-r06-c21,bHLH,AtIBH1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G24490,p04-r06-c22,TRIHELIX,AT3G24490,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G18960,p04-r06-c23,MADS,AG,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G65100,p04-r06-c24,EIL,AT5G65100,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G04670,p04-r07-c01,WRKY,WRKY39,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G10970,p04-r07-c02,C2H2,AT5G10970,Nucleus,Chromosome
+AT1G23810,p04-r07-c03,Orphans,AT1G23810,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G66350,p04-r07-c04,SRS,SHI,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G24230,p04-r07-c05,Orphans,AT1G24230,Nucleus,Chromosome
+AT4G36260,p04-r07-c06,SRS,SRS2,Nucleus,Chromosome
+AT1G27280,p04-r07-c07,Orphans,AT1G27280,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G66870,p04-r07-c08,LOB,LBD36,Nucleus,Chromosome
+AT1G49830,p04-r07-c09,ND,AT1G49830,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G06590,p04-r07-c10,ND,RITF1,Nucleus,Chromosome
+AT3G19070,p04-r07-c11,ND,AT3G19070,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G47710,p04-r07-c12,ND,BNQ3,Nucleus,Chromosome
+AT2G36740,p04-r07-c13,YL1,ATSWC2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G09460,p04-r07-c14,ND,AT5G09460,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G25110,p04-r07-c15,PEPTIDASE_C14,MCP1c,Nucleus,Chromosome
+AT3G22830,p04-r07-c16,HSF,HSFA6B,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G15040,p04-r07-c17,Orphans,AT5G15040,Nucleus,Chromosome
+AT1G30210,p04-r07-c18,TCP,ATTCP24,Nucleus,Chromosome
+AT5G60142,p04-r07-c19,ABI3-VP1,AT5G60142,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G24520,p04-r07-c20,HSF,AT-HSFC1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G01540,p04-r07-c21,NAC,NTM1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G32800,p04-r07-c22,AP2-EREBP,AT4G32800,Nucleus,Chromosome
+AT3G06490,p04-r07-c23,MYB,AtMYB108,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G58900,p04-r07-c24,MYB,AT5G58900,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G28300,p04-r08-c01,ABI3-VP1,LEC2,Nucleus,Chromosome
+AT1G19050,p04-r08-c02,Orphans,ARR7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G14490,p04-r08-c03,FHA,AT4G14490,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G23060,p04-r08-c04,GNAT,AT2G23060,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G48100,p04-r08-c05,C2H2,AT2G48100,Nucleus,"Nucleus, nucleolus"
+AT5G38740,p04-r08-c06,MADS,AGL77,Nucleus,Chromosome
+AT4G37940,p04-r08-c07,MADS,AGL21,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G03060,p04-r08-c08,MADS,AGL30,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G65080,p04-r08-c09,MADS,MAF5,Nucleus,Chromosome
+AT1G60350,p04-r08-c10,NAC,ANAC024,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G09100,p04-r08-c11,ND,AT4G09100,Secreted,"Secreted, extracellular space"
+AT2G42410,p04-r08-c12,C2H2,ATZFP11,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G43430,p04-r08-c13,ND,AT3G43430,Endoplasmic,Endoplasmic reticulum membrane
+AT3G51060,p04-r08-c14,SRS,SRS1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G18780,p04-r08-c15,ND,AT1G18780,Nucleus,Chromosome
+AT5G54067,p04-r08-c16,REM(B3),AT5G54067,Nucleus,Chromosome
+AT1G18760,p04-r08-c17,ND,AT1G18760,Nucleus,Chromosome
+AT1G75240,p04-r08-c18,zf-HD,HB33,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G61630,p04-r08-c19,AP2-EREBP,CRF6,Nucleus,Chromosome
+AT5G15850,p04-r08-c20,C2C2-CO-like,BBX2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G36710,p04-r08-c21,GRAS,HAM4,Nucleus,Chromosome
+AT1G34180,p04-r08-c22,NAC,ANAC016,Endoplasmic,Endoplasmic reticulum membrane
+AT3G45150,p04-r08-c23,TCP,TCP16,Nucleus,Chromosome
+AT1G69560,p04-r08-c24,MYB,MYB105,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G38860,p04-r09-c01,bHLH,BIM3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G38300,p04-r09-c02,G2-like,AT2G38300,Nucleus,Chromosome
+AT1G32330,p04-r09-c03,HSF,ATHSFA1D,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G68920,p04-r09-c04,bHLH,bHLH49,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G60480,p04-r09-c05,zf-HD,ZHD12,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G34530,p04-r09-c06,bHLH,CIB1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G55950,p04-r09-c07,GeBP,AT1G55950,Mitochondrion,Mitochondrion inner membrane
+AT3G61950,p04-r09-c08,bHLH,AT3G61950,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G12890,p04-r09-c09,AP2-EREBP,AT1G12890,Nucleus,Chromosome
+AT1G19000,p04-r09-c10,MYB-related,AT1G19000,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G12977,p04-r09-c11,NAC,AT3G12977,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G19180,p04-r09-c12,ZIM,JAZ1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G06634,p04-r09-c13,C2H2,AtYY1,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G40330,p04-r09-c14,MYB,MYB23,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G20970,p04-r09-c15,bHLH,AT4G20970,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G27230,p04-r09-c16,CCAAT,HTA2,Nucleus,Chromosome
+AT1G32510,p04-r09-c17,NAC,NAC011,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G72210,p04-r09-c18,bHLH,bHLH096,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G18335,p04-r09-c19,GNAT,AT1G18335,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G32700,p04-r09-c20,PLATZ,AT1G32700,Nucleus,Chromosome
+AT5G04760,p04-r09-c21,MYB,AT5G04760,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G17950,p04-r09-c22,HB,WUS,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G68670,p04-r09-c23,G2-like,HHO2,Nucleus,Nucleus speckle; Chromosome
+AT4G37610,p04-r09-c24,TAZ,BT5,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G18550,p04-r10-c01,TCP,BRC1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G10000,p04-r10-c02,TRIHELIX,EDA31,Nucleus,Chromosome
+AT3G12910,p04-r10-c03,NAC,AT3G12910,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G56200,p04-r10-c04,C2H2,AT5G56200,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G62360,p04-r10-c05,HB,WAM,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G69570,p04-r10-c06,C2C2-DOF,AT1G69570,Nucleus,Chromosome
+AT4G08250,p04-r10-c07,GRAS,AT4G08250,Nucleus,Chromosome
+AT1G68120,p04-r10-c08,BBR-BPC,ATBPC3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G26170,p04-r10-c09,WRKY,WRKY50,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G68480,p04-r10-c10,C2H2,JAG,Nucleus,Nucleus speckle; Chromosome
+AT4G00210,p04-r10-c11,LOB,LBD31,Nucleus,Chromosome
+AT2G46735,p04-r10-c12,ND,AT2G46735,Plastid,"Plastid, chloroplast thylakoid membrane"
+AT1G09250,p04-r10-c13,ND,AIF4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G35580,p04-r10-c14,NAC,CBNAC,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G56400,p04-r10-c15,WRKY,ATWRKY70,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G50915,p04-r10-c16,bHLH,AT5G50915,Nucleus,Chromosome
+AT2G04240,p04-r10-c17,ND,XERICO,Golgi_apparatus,Golgi apparatus membrane
+AT5G65910,p04-r10-c18,BSD,AT5G65910,Golgi_apparatus,"Golgi apparatus, trans-Golgi network"
+AT3G47600,p04-r10-c19,MYB,MYB94,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G28550,p04-r10-c20,AP2-EREBP,TOE1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G72360,p04-r10-c21,AP2-EREBP,AtERF73,Nucleus,Chromosome
+AT5G25390,p04-r10-c22,AP2-EREBP,SHN3,Nucleus,Chromosome
+AT5G17810,p04-r10-c23,HB,WOX12,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus membrane; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT3G04930,p04-r10-c24,GeBP,AT3G04930,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G02470,p04-r11-c01,ALFIN-like,AL6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G67190,p04-r11-c02,AP2-EREBP,DEAR2,Nucleus,Chromosome
+AT2G34450,p04-r11-c03,HMG,AT2G34450,Nucleus,Chromosome
+AT1G46768,p04-r11-c04,AP2-EREBP,RAP2.1,Nucleus,Chromosome
+AT1G59640,p04-r11-c05,bHLH,BPEp,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G40710,p04-r11-c06,C2H2,AT5G40710,Nucleus,Chromosome
+AT5G07580,p04-r11-c07,AP2-EREBP,ERF106,Nucleus,Chromosome
+AT3G56850,p04-r11-c08,bZIP,DPBF3,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G10280,p04-r11-c09,MYB,MYB92,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G63090,p04-r11-c10,LOB,LOB,Nucleus,Chromosome
+AT5G17260,p04-r11-c11,NAC,NAC86,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G54620,p04-r11-c12,bZIP,BZO2H4,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT3G02550,p04-r11-c13,LOB,LBD41,Nucleus,Chromosome
+AT2G30590,p04-r11-c14,WRKY,WRKY21,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G14540,p04-r11-c15,CCAAT,NF-YB3,Nucleus,Chromosome
+AT3G14230,p04-r11-c16,AP2-EREBP,RAP2.2,Nucleus,Chromosome
+AT3G24140,p04-r11-c17,bHLH,FMA,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G44810,p04-r11-c18,GeBP,AT1G44810,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G52660,p04-r11-c19,MYB-related,AT5G52660,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G25820,p04-r11-c20,AP2-EREBP,ESE2,Nucleus,Chromosome
+AT2G33350,p04-r11-c21,Orphans/,AT2G33350,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G58780,p04-r11-c22,MADS,SHP1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G46670,p04-r11-c23,Orphans/,AT2G46670,Nucleus,"Nucleus, nucleolus"
+AT5G27050,p04-r11-c24,MADS,AGL101,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G33880,p04-r12-c01,HB,WOX9A,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G02450,p04-r12-c02,NAC,LOV1,Nucleus,Chromosome
+AT3G11020,p04-r12-c03,AP2-EREBP,DREB2B,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G10585,p04-r12-c04,bHLH,AT1G10585,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G03550,p04-r12-c05,ND,AT3G03550,Membrane,Cell membrane
+AT1G61980,p04-r12-c06,mTERF,AT1G61980,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT1G03790,p04-r12-c07,C3H,TZF4,Nucleus,Nucleus speckle; Chromosome
+AT1G15340,p04-r12-c08,MBD,MBD10,Nucleus,"Nucleus, nucleolus"
+AT1G25280,p04-r12-c09,TUB,AtTLP10,Mitochondrion,Mitochondrion inner membrane
+AT1G72740,p04-r12-c10,MYB-related,AT1G72740,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G22140,p04-r12-c11,PHD,EBS,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G12890,p04-r12-c12,Orphans/,ASML2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G69010,p04-r12-c13,bHLH,BIM2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G33280,p04-r12-c14,ABI3-VP1,AT4G33280,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G43010,p04-r12-c15,bHLH,SRL2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT2G29660,p04-r12-c16,C2H2,AT2G29660,Membrane,Cell membrane
+AT4G13040,p04-r12-c17,AP2-EREBP,AT4G13040,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G47790,p04-r12-c18,FHA,AT5G47790,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT4G39250,p04-r12-c19,MYB-related,RSM2,Nucleus,Chromosome
+AT1G67710,p04-r12-c20,ARR-B,ARR11,Nucleus,Chromosome
+AT3G05690,p04-r12-c21,CCAAT,ATHAP2B,Nucleus,Chromosome
+AT5G05330,p04-r12-c22,HMG,AT5G05330,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G18570,p04-r12-c23,MYB,HIG1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G56570,p04-r12-c24,SET,AT3G56570,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G03200,p04-r13-c01,NAC,NAC045,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G27470,p04-r13-c02,CCAAT,NF-YB11,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT4G05170,p04-r13-c03,bHLH,AT4G05170,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G10600,p04-r13-c04,PHD,AT4G10600,Nucleus,Chromosome
+AT5G06080,p04-r13-c05,LOB,LBD33,Mitochondrion,Mitochondrion inner membrane
+AT5G03415,p04-r13-c06,E2F-DP,DPB,Nucleus,Chromosome
+AT2G32020,p04-r13-c07,GNAT,AT2G32020,Cytoplasm,"Cytoplasm, cytosol"
+AT1G68030,p04-r13-c08,PHD,AT1G68030,Nucleus,Chromosome
+AT2G38130,p04-r13-c09,GNAT,ATMAK3,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G74890,p04-r13-c10,Orphans,ARR15,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G46600,p04-r13-c11,GRAS,AT3G46600,Nucleus,Chromosome
+AT2G41310,p04-r13-c12,Orphans,ATRR3,Nucleus,Chromosome
+AT4G37750,p04-r13-c13,AP2-EREBP,ANT,Nucleus,Chromosome
+AT3G13960,p04-r13-c14,GRF,GRF5,Mitochondrion,Mitochondrion inner membrane
+AT1G50600,p04-r13-c15,GRAS,SCL5,Nucleus,Chromosome
+AT3G14740,p04-r13-c16,PHD,AT3G14740,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G38900,p04-r13-c17,bZIP,bZIP29,Nucleus,Chromosome
+AT2G39000,p04-r13-c18,GNAT,AtNAA70,Plastid,"Plastid, chloroplast stroma"
+AT1G76890,p04-r13-c19,TRIHELIX,GT2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G61990,p04-r13-c20,mTERF,AT1G61990,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT2G47190,p04-r13-c21,MYB,MYB2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G34620,p04-r13-c22,mTERF,AT2G34620,Nucleus,Chromosome
+AT2G42380,p04-r13-c23,bZIP,BZIP34,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT1G31760,p04-r13-c24,SWI/SNF-BAF60b,AT1G31760,Mitochondrion,Mitochondrion inner membrane
+AT1G65620,p04-r14-c01,LOB,AS2,Nucleus,Chromosome
+AT4G38910,p04-r14-c02,BBR-BPC,BPC5,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G03780,p04-r14-c03,MYB-related,TRFL10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G24330,p04-r14-c04,PHD,SDG34,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G01220,p04-r14-c05,HB,HB20,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G18830,p04-r14-c06,OFP,OFP5,Mitochondrion,Mitochondrion inner membrane
+AT1G68810,p04-r14-c07,bHLH,T5L1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G58360,p04-r14-c08,OFP,OFP3,Nucleus,Chromosome
+AT3G27010,p04-r14-c09,TCP,PCF1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G22240,p04-r14-c10,OFP,OFP10,Mitochondrion,Mitochondrion inner membrane
+AT5G57620,p04-r14-c11,MYB,AtMYB36,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G12980,p04-r14-c12,RCD1-like,AT5G12980,Nucleus,Chromosome
+AT1G68880,p04-r14-c13,bZIP,AtbZIP,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT3G56230,p04-r14-c14,TRAF,AT3G56230,Nucleus,Chromosome
+AT5G26930,p04-r14-c15,C2C2-GATA,GATA23,Nucleus,Chromosome
+AT3G53440,p04-r14-c16,ND,AT3G53440,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G21060,p04-r14-c17,CSD,GRP2B,Nucleus,"Nucleus, nucleolus"
+AT1G08320,p04-r14-c18,bZIP,bZIP21,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G24590,p04-r14-c19,AP2-EREBP,DRN-LIKE,Nucleus,Chromosome
+AT5G49200,p04-r14-c20,C3H,AT5G49200,Nucleus,"Nucleus, nucleolus"
+AT2G32460,p04-r14-c21,MYB,ABS7,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G18750,p04-r14-c22,MADS,AGL65,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G18280,p04-r14-c23,TUB,AtTLP2,Nucleus,Chromosome
+AT5G05550,p04-r14-c24,TRIHELIX,VFP5,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G66940,p04-r15-c01,C2C2-DOF,ATDOF5.8,Nucleus,Chromosome
+AT5G50670,p04-r15-c02,SBP,SPL13B,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G10610,p04-r15-c03,bHLH,AT1G10610,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT5G14170,p04-r15-c04,SWI/SNF-BAF60b,BAF60,Nucleus,Chromosome
+AT1G29860,p04-r15-c05,WRKY,ATWRKY71,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G14713,p04-r15-c06,ZIM,PPD1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G08150,p04-r15-c07,HB,BP1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G70030,p04-r15-c08,Orphans,AT1G70030,Nucleus,Chromosome
+AT5G49490,p04-r15-c09,MADS,AGL83,Nucleus,Chromosome
+AT3G02860,p04-r15-c10,C2H2,ARS1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G14687,p04-r15-c11,zf-HD,AtHB32,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G69030,p04-r15-c12,BSD,AT1G69030,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G51180,p04-r15-c13,ND,AT3G51180,Nucleus,Chromosome
+AT2G16770,p04-r15-c14,bZIP,bZIP23,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G17040,p04-r15-c15,NAC,NAC036,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G36060,p04-r15-c16,AP2-EREBP,WIND3,Nucleus,Chromosome
+AT1G68840,p04-r15-c17,AP2-EREBP,AtRAV2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G62300,p04-r15-c18,WRKY,WRKY6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G35700,p04-r15-c19,AP2-EREBP,ERF38,Nucleus,Chromosome
+AT4G25610,p04-r15-c20,C2H2,AT4G25610,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G48890,p04-r15-c21,C2H2,LATE,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G50820,p04-r15-c22,NAC,ANAC097,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G62150,p04-r15-c23,mTERF,AT1G62150,Mitochondrion,Mitochondrion inner membrane
+AT5G66770,p04-r15-c24,GRAS,AT5G66770,Nucleus,Chromosome
+AT3G49760,p04-r16-c01,bZIP,bZIP5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G62700,p04-r16-c02,NAC,ANAC026,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G08130,p04-r16-c03,bHLH,BIM1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G34400,p04-r16-c04,ABI3-VP1,AT4G34400,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G70920,p04-r16-c05,HB,HB18,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus membrane; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G53660,p04-r16-c06,GRF,GRF7,Nucleus,Chromosome
+AT5G24050,p04-r16-c07,REM(B3),AT5G24050,Nucleus,Chromosome
+AT2G21650,p04-r16-c08,MYB-related,RSM1,Nucleus,Chromosome
+AT5G43650,p04-r16-c09,bHLH,BHLH92,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G12850,p04-r16-c10,FAR1,FRF3,Nucleus,Chromosome
+AT5G26749,p04-r16-c11,C3H,AT5G26749,Nucleus,Chromosome
+AT2G36026,p04-r16-c12,OFP,AT2G36026,Nucleus,Chromosome
+AT1G77920,p04-r16-c13,bZIP,TGA7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G34590,p04-r16-c14,bZIP,BZIP11,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus membrane; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G07640,p04-r16-c15,C2C2-DOF,OBP2,Nucleus,Chromosome
+AT1G18330,p04-r16-c16,MYB-related,EPR1,Nucleus,Chromosome
+AT2G20570,p04-r16-c17,G2-like,ATGLK1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G12350,p04-r16-c18,ND,AtMYB42,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G23210,p04-r16-c19,bHLH,bHLH34,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G19350,p04-r16-c20,BES1,BES1,Nucleus,Chromosome
+AT5G06420,p04-r16-c21,C3H,AT5G06420,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G01160,p04-r16-c22,C2H2,AT5G01160,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G19860,p04-r16-c23,bHLH,bHLH121,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G25810,p04-r16-c24,AP2-EREBP,tny,Nucleus,Chromosome
+AT5G06160,p05-r01-c01,C2H2,ATO,Nucleus,Chromosome
+AT3G52540,p05-r01-c02,OFP,OFP18,Cytoplasm,"Cytoplasm, cytosol"
+AT5G26610,p05-r01-c03,C2H2,AT5G26610,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G67450,p05-r01-c04,C2H2,AZF1,Nucleus,Nucleus speckle; Chromosome
+AT3G56380,p05-r01-c05,Orphans,RR17,Cytoplasm,"Cytoplasm, cytosol"
+AT1G32360,p05-r01-c06,C3H,AT1G32360,Nucleus,Chromosome
+AT5G25790,p05-r01-c07,CPP,AT5G25790,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G04030,p05-r01-c08,OFP,OFP9,Nucleus,Chromosome
+AT5G41090,p05-r01-c09,NAC,ANAC095,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G59380,p05-r01-c10,MBD,MBD6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G09250,p05-r01-c11,Coactivator,KIWI,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G44190,p05-r01-c12,G2-like,ATGLK2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G07500,p05-r01-c13,FAR1,FRF2,Nucleus,Chromosome
+AT5G37260,p05-r01-c14,MYB-related,RVE2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G72030,p05-r01-c15,GNAT,AT1G72030,Cytoplasm,"Cytoplasm, cytosol"
+AT1G31040,p05-r01-c16,PLATZ,AT1G31040,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G39030,p05-r01-c17,GNAT,NATA1,Cytoplasm,"Cytoplasm, cytosol"
+AT5G35770,p05-r01-c18,SAP,SAP,Mitochondrion,Mitochondrion inner membrane
+AT5G20240,p05-r01-c19,MADS,PI,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G45120,p05-r01-c20,C2H2,AT2G45120,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G15500,p05-r01-c21,NAC,ANAC055,Nucleus,Chromosome
+AT2G39020,p05-r01-c22,GNAT,NATA2,Cytoplasm,"Cytoplasm, cytosol"
+AT3G02400,p05-r01-c23,FHA,AT3G02400,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G20640,p05-r01-c24,ND,AT3G20640,Nucleus,Chromosome
+AT4G32010,p05-r02-c01,ABI3-VP1,HSI2-L1,Nucleus,Chromosome
+AT5G42700,p05-r02-c02,ABI3-VP1,AT5G42700,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G61740,p05-r02-c03,PHD,ATX3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G28640,p05-r02-c04,AUX-IAA,IAA11,Endoplasmic,Endoplasmic reticulum membrane
+AT4G39160,p05-r02-c05,MYB-related,AT4G39160,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G47390,p05-r02-c06,MYB-related,KUA1,Nucleus,Chromosome
+AT5G20730,p05-r02-c07,ARF,NPH4,Nucleus,Chromosome
+AT4G24240,p05-r02-c08,WRKY,WRKY7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G47070,p05-r02-c09,SBP,SPL1,Nucleus,Chromosome
+AT2G31460,p05-r02-c10,REM(B3),AT2G31460,Cytoplasm,"Cytoplasm, cytosol"
+AT3G16857,p05-r02-c11,ARR-B,RR1,Nucleus,Chromosome
+AT5G27130,p05-r02-c12,MADS,AGL39,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G27230,p05-r02-c13,bHLH,LHW,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G16400,p05-r02-c14,HB,BLH7,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G23980,p05-r02-c15,ARF,ARF9,Nucleus,Chromosome
+AT4G00150,p05-r02-c16,GRAS,ATHAM3,Nucleus,Chromosome
+AT5G37020,p05-r02-c17,ARF,ATARF8,Nucleus,Chromosome
+AT5G66700,p05-r02-c18,HB,ATHB53,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT3G54220,p05-r02-c19,GRAS,SGR1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G14510,p05-r02-c20,ALFIN-like,AL7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G36960,p05-r02-c21,MYB-related,TKI1,Nucleus,"Nucleus, nucleolus"
+AT3G18960,p05-r02-c22,ABI3-VP1,AT3G18960,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G73360,p05-r02-c23,HB,EDT1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G30420,p05-r02-c24,MYB-related,ETC2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G53920,p05-r03-c01,SIGMA70-like,SIG3,Plastid,"Plastid, chloroplast stroma"
+AT1G28520,p05-r03-c02,VOZ,VOZ1,Nucleus,Chromosome
+AT2G27050,p05-r03-c03,EIL,AtEIL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G49690,p05-r03-c04,MYB,RAX3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G29230,p05-r03-c05,NAC,ANAC075,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G35550,p05-r03-c06,BBR-BPC,BPC7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G37580,p05-r03-c07,GNAT,HLS1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT4G36020,p05-r03-c08,CSD,CSDP1,Nucleus,"Nucleus, nucleolus"
+AT4G02990,p05-r03-c09,mTERF,BSM,Mitochondrion,Mitochondrion inner membrane
+AT2G18120,p05-r03-c10,SRS,SRS4,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G31060,p05-r03-c11,AP2-EREBP,AT4G31060,Nucleus,Chromosome
+AT3G04100,p05-r03-c12,MADS,AGL57,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G60142,p05-r03-c13,ABI3-VP1,AT5G60142,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G28910,p05-r03-c14,ND,CXIP4,Nucleus,"Nucleus, nucleolus; Nucleus speckle"
+AT5G18000,p05-r03-c15,ABI3-VP1,VDD,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G10380,p05-r03-c16,ND,ATRING1,Membrane,Cell membrane
+AT1G55750,p05-r03-c17,BSD,AT1G55750,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT4G37180,p05-r03-c18,G2-like,UIF1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G52910,p05-r03-c19,GRF,GRF4,Nucleus,Chromosome
+AT5G04110,p05-r03-c20,MYB-related,GYRB3,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT4G37850,p05-r03-c21,bHLH,AT4G37850,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G37060,p05-r03-c22,CCAAT,NF-YB8,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G06770,p05-r03-c23,C3H,AT5G06770,Nucleus,Chromosome
+AT4G00238,p05-r03-c24,GeBP,AtSTKL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G32640,p05-r04-c01,bHLH,JAI1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G02040,p05-r04-c02,C2H2,AT1G02040,Nucleus,Nucleus speckle; Chromosome
+AT2G32700,p05-r04-c03,LUG,LUH,Nucleus,Chromosome
+AT1G51970,p05-r04-c04,REM(B3),AT1G51970,Nucleus,Chromosome
+AT5G62000,p05-r04-c05,ARF,AtARF2,Nucleus,Chromosome
+AT1G04850,p05-r04-c06,C2H2,AT1G04850,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G19510,p05-r04-c07,HB,HAT3.1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G04820,p05-r04-c08,OFP,OFP13,Mitochondrion,Mitochondrion inner membrane
+AT1G58220,p05-r04-c09,MYB-related,AT1G58220,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G49130,p05-r04-c10,C2C2-CO-like,BBX17,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G64220,p05-r04-c11,CAMTA,CAMTA2,Nucleus,Chromosome
+AT5G06250,p05-r04-c12,ABI3-VP1,NGAL3,Nucleus,Chromosome
+AT3G43240,p05-r04-c13,ARID,AT3G43240,Nucleus,Chromosome
+AT5G67430,p05-r04-c14,GNAT,AT5G67430,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G36720,p05-r04-c15,PHD,AT2G36720,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G16060,p05-r04-c16,AP2-EREBP,ADAP,Nucleus,Chromosome
+AT3G12280,p05-r04-c17,RB,ATRBR1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G33760,p05-r04-c18,AP2-EREBP,ERF022,Nucleus,Chromosome
+AT1G05230,p05-r04-c19,HB,HDG2,Nucleus,"Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G64750,p05-r04-c20,AP2-EREBP,ABR1,Nucleus,Chromosome
+AT5G56270,p05-r04-c21,WRKY,ATWRKY2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT3G18990,p05-r04-c22,ABI3-VP1,REM39,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT3G20770,p05-r04-c23,EIL,AtEIN3,Nucleus,Chromosome
+AT5G23280,p05-r04-c24,TCP,AtTCP7,Nucleus,Chromosome
+AT2G39250,p05-r05-c01,AP2-EREBP,SNZ,Nucleus,Chromosome
+AT4G32280,p05-r05-c02,AUX-IAA,IAA29,Nucleus,Chromosome
+AT5G03220,p05-r05-c03,MED7,MED7A,Nucleus,Chromosome
+AT5G51910,p05-r05-c04,TCP,TCP19,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G04740,p05-r05-c05,TRAF,AT2G04740,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G22810,p05-r05-c06,AP2-EREBP,AT1G22810,Nucleus,Chromosome
+AT5G10510,p05-r05-c07,AP2-EREBP,AIL6,Nucleus,"Nucleus, nucleolus"
+AT5G26630,p05-r05-c08,MADS,AT5G26630,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G76900,p05-r05-c09,TUB,AtTLP1,Mitochondrion,Mitochondrion inner membrane
+AT5G52600,p05-r05-c10,MYB,AtMYB82,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G28730,p05-r05-c11,HMG,SSRP1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G50510,p05-r05-c12,LOB,LBD28,Nucleus,Chromosome
+AT4G28030,p05-r05-c13,GNAT,AT4G28030,Plastid,"Plastid, chloroplast stroma"
+AT1G66810,p05-r05-c14,C3H,AtC3H14,Nucleus,Chromosome
+AT1G62010,p05-r05-c15,mTERF,AT1G62010,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT5G15060,p05-r05-c16,LOB,AT5G15060,Nucleus,Chromosome
+AT1G74120,p05-r05-c17,mTERF,mTERF15,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT1G53320,p05-r05-c18,TUB,TLP7,Mitochondrion,Mitochondrion matrix
+AT2G36000,p05-r05-c19,mTERF,EMB3114,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma"
+AT1G20696,p05-r05-c20,HMG,HMGB3,Nucleus,Chromosome
+AT1G79220,p05-r05-c21,mTERF,AT1G79220,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT1G04550,p05-r05-c22,AUX-IAA,BDL,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G23290,p05-r05-c23,MYB,MYB70,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G54390,p05-r05-c24,PHD,ING2,Nucleus,Chromosome
+AT4G14770,p05-r06-c01,CPP,TCX2,Nucleus,Chromosome
+AT3G61230,p05-r06-c02,LIM,PLIM2c,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G17410,p05-r06-c03,ARID,AT2G17410,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G05860,p05-r06-c04,MADS,AT3G05860,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G79350,p05-r06-c05,PHD,EMB1135,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G42640,p05-r06-c06,C2H2,AT5G42640,Nucleus,Chromosome
+AT3G08020,p05-r06-c07,PHD,AT3G08020,Nucleus,Chromosome
+AT2G15660,p05-r06-c08,ND,AGL95,Nucleus,"Nucleus, nucleolus"
+AT3G10800,p05-r06-c09,bZIP,BZIP28,Golgi_apparatus,Golgi apparatus membrane
+AT4G15250,p05-r06-c10,C2C2-CO-like,BBX9,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G43990,p05-r06-c11,SET,SUVR2,Nucleus,Chromosome
+AT1G08880,p05-r06-c12,CCAAT,H2AXA,Nucleus,Chromosome
+AT1G62310,p05-r06-c13,JUMONJI,AT1G62310,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G27880,p05-r06-c14,C2H2,AT5G27880,Nucleus,Chromosome
+AT2G22300,p05-r06-c15,CAMTA,SR1,Nucleus,Chromosome
+AT5G61620,p05-r06-c16,MYB-related,AT5G61620,Nucleus,Chromosome
+AT3G19210,p05-r06-c17,SNF2,CHR25,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G07260,p05-r06-c18,FHA,AT3G07260,Nucleus,"Nucleus, nucleolus"
+AT3G53680,p05-r06-c19,PHD,AT3G53680,Nucleus,Chromosome
+AT3G48360,p05-r06-c20,TRAF,ATBT2,Nucleus,Chromosome
+AT3G54350,p05-r06-c21,FHA,emb1967,Nucleus,Chromosome
+AT1G12980,p05-r06-c22,AP2-EREBP,ESR1,Nucleus,Chromosome
+AT1G10240,p05-r06-c23,FAR1,FRS11,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G08505,p05-r06-c24,C3H,AT3G08505,Nucleus,Chromosome
+AT2G32100,p05-r07-c01,OFP,ATOFP16,Mitochondrion,Mitochondrion inner membrane
+AT5G51870,p05-r07-c02,MADS,AGL71,Nucleus,Chromosome
+AT1G76590,p05-r07-c03,PLATZ,AT1G76590,Nucleus,Chromosome
+AT5G62430,p05-r07-c04,C2C2-DOF,CDF1,Nucleus,Chromosome
+AT2G46260,p05-r07-c05,TRAF,LRB1,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G28050,p05-r07-c06,C2C2-CO-like,BBX13,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G24210,p05-r07-c07,Orphans,AT1G24210,Nucleus,Chromosome
+AT2G34710,p05-r07-c08,HB,ATHB14,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G63030,p05-r07-c09,zf-CW,MBD4,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G60400,p05-r07-c10,mTERF,SHOT1,Mitochondrion,Mitochondrion inner membrane; Mitochondrion matrix
+AT1G43160,p05-r07-c11,AP2-EREBP,RAP2.6,Nucleus,Chromosome
+AT3G24650,p05-r07-c12,ABI3-VP1,ABI3,Nucleus,Chromosome
+AT4G17490,p05-r07-c13,AP2-EREBP,ATERF6,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G32870,p05-r07-c14,NAC,ANAC013,Endoplasmic,Endoplasmic reticulum membrane
+AT5G07500,p05-r07-c15,C3H,PEI1,Nucleus,Chromosome
+AT3G20840,p05-r07-c16,AP2-EREBP,PLT1,Nucleus,Chromosome
+AT5G41380,p05-r07-c17,Orphans/,AT5G41380,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G20110,p05-r07-c18,CPP,AT2G20110,Nucleus,Chromosome
+AT3G53820,p05-r07-c19,C2H2,AT3G53820,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G25550,p05-r07-c20,G2-like,AT1G25550,Nucleus,Chromosome
+AT4G18450,p05-r07-c21,AP2-EREBP,AT4G18450,Nucleus,Chromosome
+AT4G32880,p05-r07-c22,HB,ATHB-8,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G16490,p05-r07-c23,MYB,MYB58,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G16350,p05-r07-c24,MYB-related,AT3G16350,Nucleus,Chromosome
+AT4G38180,p05-r08-c01,FAR1,FRS5,Nucleus,Chromosome
+AT5G28040,p05-r08-c02,GeBP,AT5G28040,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G37670,p05-r08-c03,GNAT,NAGS2,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma"
+AT1G35240,p05-r08-c04,ARF,ARF20,Nucleus,Chromosome
+AT1G62830,p05-r08-c05,SWI/SNF-SWI3,LDL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G50330,p05-r08-c06,bHLH,HEC2,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT3G10390,p05-r08-c07,SWI/SNF-SWI3,FLD,Nucleus,Chromosome
+AT5G16820,p05-r08-c08,HSF,HSFA1B,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G19330,p05-r08-c09,TRAF,ARIA,Nucleus,Chromosome
+AT4G38160,p05-r08-c10,mTERF,pde191,Nucleus,Chromosome
+AT1G10170,p05-r08-c11,zf-NF-X1,NFXL1,Nucleus,Chromosome
+AT5G46350,p05-r08-c12,WRKY,ATWRKY8,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G59890,p05-r08-c13,Orphans,SNL5,Nucleus,Chromosome
+AT4G36060,p05-r08-c14,bHLH,bHLH11,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G52230,p05-r08-c15,ND,MBD13,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G72050,p05-r08-c16,C2H2,TFIIIA,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G32730,p05-r08-c17,MYB,ATMYB3R-1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G63650,p05-r08-c18,bHLH,EGL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G05130,p05-r08-c19,SNF2,AT5G05130,Mitochondrion,Mitochondrion matrix
+AT5G60140,p05-r08-c20,ABI3-VP1,AT5G60140,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G27610,p05-r08-c21,MYB-related,ALY1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G31920,p05-r08-c22,ARR-B,ARR10,Nucleus,Chromosome
+AT4G00730,p05-r08-c23,HB,AHDP,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT5G08330,p05-r08-c24,TCP,AtTCP21,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G54470,p05-r09-c01,Orphans,BBX29,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G73100,p05-r09-c02,SET,SUVH3,Nucleus,Chromosome
+AT2G34830,p05-r09-c03,WRKY,AtWRKY35,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G16910,p05-r09-c04,bHLH,AMS,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G62610,p05-r09-c05,bHLH,AT5G62610,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G32130,p05-r09-c06,IWS1,IWS1,Nucleus,"Nucleus, nucleolus"
+AT3G24010,p05-r09-c07,PHD,ATING1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G10500,p05-r09-c08,NAC,ANAC053,Endoplasmic,Endoplasmic reticulum membrane
+AT4G25990,p05-r09-c09,Orphans/,CIL,Nucleus,"Nucleus, nucleolus"
+AT4G22070,p05-r09-c10,WRKY,WRKY31,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G32070,p05-r09-c11,GNAT,NSI,Plastid,"Plastid, chloroplast stroma"
+AT4G34000,p05-r09-c12,bZIP,ABF3,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G03340,p05-r09-c13,WRKY,WRKY3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G54320,p05-r09-c14,AP2-EREBP,ATWRI1,Nucleus,Chromosome
+AT1G22130,p05-r09-c15,MADS,AGL104,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G49010,p05-r09-c16,MYB,AT1G49010,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G54360,p05-r09-c17,ND,TAF6B,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT4G17695,p05-r09-c18,G2-like,KAN3,Nucleus,Nucleus speckle; Chromosome
+AT5G27090,p05-r09-c19,MADS,AGL54,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G10950,p05-r09-c20,BSD,AT2G10950,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G68800,p05-r09-c21,TCP,BRC2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G44840,p05-r09-c22,AP2-EREBP,ERF13,Nucleus,Chromosome
+AT5G17800,p05-r09-c23,MYB,BRAVO,Nucleus,Chromosome
+AT5G02460,p05-r09-c24,C2C2-DOF,AT5G02460,Nucleus,Chromosome
+AT1G19220,p05-r10-c01,ARF,IAA22,Nucleus,Chromosome
+AT2G17600,p05-r10-c02,ND,AT2G17600,Nucleus,Chromosome
+AT1G50410,p05-r10-c03,SNF2,FRG2,Nucleus,Chromosome
+AT5G63080,p05-r10-c04,JUMONJI,JMJ20,Nucleus,Chromosome
+AT4G00990,p05-r10-c05,JUMONJI,AT4G00990,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G59060,p05-r10-c06,bHLH,PIF5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G17150,p05-r10-c07,RWP-RK,NLP1,Nucleus,Chromosome
+AT1G67370,p05-r10-c08,SWI/SNF-SWI3,ATASY1,Nucleus,Chromosome
+AT3G60030,p05-r10-c09,SBP,SPL12,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G39830,p05-r10-c10,Orphans,DAR2,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G02160,p05-r10-c11,C3H,AtC3H17,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G21340,p05-r10-c12,ND,B70,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G41410,p05-r10-c13,HB,BEL1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G30130,p05-r10-c14,LOB,PCK1,Nucleus,Chromosome
+AT5G28300,p05-r10-c15,TRIHELIX,GT2L,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G27760,p05-r10-c16,C2H2,IPT2,Nucleus,"Nucleus, nucleolus"
+AT2G02090,p05-r10-c17,SNF2,CHA19,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G51950,p05-r10-c18,C3H,AT3G51950,Nucleus,Chromosome
+AT4G04885,p05-r10-c19,C2H2,PCFS4,Nucleus,Nucleus speckle; Chromosome
+AT2G05330,p05-r10-c20,TRAF,AT2G05330,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G02070,p05-r10-c21,C2H2,IDD5,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT5G12850,p05-r10-c22,C3H,AT5G12850,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G09060,p05-r10-c23,JUMONJI,JMJ24,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G62940,p05-r10-c24,C2C2-DOF,DOF5.6,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT1G56650,p05-r11-c01,MYB,AtPAP1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G36620,p05-r11-c02,C2C2-GATA,GATA19,Nucleus,Chromosome
+AT3G61120,p05-r11-c03,MADS,AGL13,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G18170,p05-r11-c04,WRKY,ATWRKY28,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G20693,p05-r11-c05,HMG,HMGB2,Cytoplasm,"Cytoplasm, cytosol"
+AT3G57390,p05-r11-c06,MADS,AGL18,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G36780,p05-r11-c07,BES1,BEH2,Nucleus,Chromosome
+AT5G13790,p05-r11-c08,MADS,AGL15,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G02080,p05-r11-c09,C2H2,IDD4,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT3G57040,p05-r11-c10,Orphans,ATRR4,Nucleus,Chromosome
+AT4G28530,p05-r11-c11,NAC,ANAC074,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G38490,p05-r11-c12,REM(B3),AT5G38490,Nucleus,Chromosome
+AT4G38680,p05-r11-c13,CSD,GRP2,Nucleus,"Nucleus, nucleolus"
+AT1G10586,p05-r11-c14,bHLH,AT1G10586,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G72310,p05-r11-c15,ND,ATL3,Membrane,Cell membrane
+AT1G21780,p05-r11-c16,TRAF,AT1G21780,Cytoplasm,"Cytoplasm, cytosol"
+AT5G67000,p05-r11-c17,AP2-EREBP,AT5G67000,Nucleus,Chromosome
+AT2G46400,p05-r11-c18,WRKY,ATWRKY46,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G07980,p05-r11-c19,CCAAT,NF-YC10,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G18650,p05-r11-c20,MADS,AGL103,Nucleus,Nucleus speckle; Chromosome
+AT3G23220,p05-r11-c21,AP2-EREBP,ESE1,Nucleus,Chromosome
+AT1G32150,p05-r11-c22,bZIP,AtbZIP68,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G02740,p05-r11-c23,PBF-2-like,PTAC11,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+AT3G21810,p05-r11-c24,C3H,AT3G21810,Nucleus,Chromosome
+AT3G52250,p05-r12-c01,MYB,AT3G52250,Nucleus,Chromosome
+AT5G66300,p05-r12-c02,NAC,ANAC105,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G24020,p05-r12-c03,RWP-RK,NLP7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G26640,p05-r12-c04,WRKY,AtWRKY20,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G53430,p05-r12-c05,PHD,SDG29,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G17230,p05-r12-c06,GRAS,SCL13,Nucleus,Chromosome
+AT5G45260,p05-r12-c07,WRKY,RRS1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G14440,p05-r12-c08,zf-HD,FTM2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT3G18640,p05-r12-c09,C3H,AT3G18640,Nucleus,Chromosome
+AT1G75410,p05-r12-c10,HB,BLH3,Nucleus,Chromosome
+AT4G21430,p05-r12-c11,Orphans,B160,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G56780,p05-r12-c12,HRT,ET2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G32250,p05-r12-c13,FAR1,FRS2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G03250,p05-r12-c14,HB,AT4G03250,Nucleus,Nucleus speckle; Chromosome
+AT4G15090,p05-r12-c15,FAR1,FAR1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT2G05160,p05-r12-c16,C3H,AT2G05160,Nucleus,Chromosome
+AT3G01320,p05-r12-c17,Orphans,SNL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G53370,p05-r12-c18,S1Fa-like,AT3G53370,Endoplasmic,Endoplasmic reticulum membrane
+AT4G35270,p05-r12-c19,RWP-RK,NLP2,Nucleus,Chromosome
+AT2G32930,p05-r12-c20,C3H,ZFN2,Nucleus,Chromosome
+AT5G19310,p05-r12-c21,SNF2,CHR23,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G31690,p05-r12-c22,ABI3-VP1,AT4G31690,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G22750,p05-r12-c23,SNF2,RAD5,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G46915,p05-r12-c24,ABI3-VP1,AT5G46915,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G16870,p05-r13-c01,C2C2-GATA,GATA17,Nucleus,Chromosome
+AT4G21030,p05-r13-c02,C2C2-DOF,ATDOF4.2,Nucleus,Chromosome
+AT4G31620,p05-r13-c03,ABI3-VP1,REM36,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G01140,p05-r13-c04,MYB,MYB106,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G47140,p05-r13-c05,C2C2-GATA,GATA27,Nucleus,Chromosome
+AT3G24500,p05-r13-c06,MBF1,MBF1C,Nucleus,"Nucleus, nucleolus"
+AT5G58010,p05-r13-c07,bHLH,LRL3,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G01500,p05-r13-c08,ABI3-VP1,NGA4,Nucleus,Chromosome
+AT5G18680,p05-r13-c09,TUB,AtTLP11,Mitochondrion,Mitochondrion inner membrane
+AT2G17870,p05-r13-c10,CSD,ATCSP3,Nucleus,"Nucleus, nucleolus"
+AT1G50680,p05-r13-c11,AP2-EREBP,AT1G50680,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G21400,p05-r13-c12,SRS,SRS3,Nucleus,Chromosome
+AT1G52890,p05-r13-c13,NAC,NAC019,Nucleus,Chromosome
+AT2G21900,p05-r13-c14,WRKY,ATWRKY59,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G37260,p05-r13-c15,MYB,ATMYB73,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G05770,p05-r13-c16,HB,WOX5A,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G20910,p05-r13-c17,ARID,AT1G20910,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G64610,p05-r13-c18,C2H2,HAM1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G01030,p05-r13-c19,C2H2,AT3G01030,Nucleus,Chromosome
+AT4G32570,p05-r13-c20,ZIM,TIFY8,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT3G19500,p05-r13-c21,ND,AT3G19500,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G36740,p05-r13-c22,HB,HB-5,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT3G24820,p05-r13-c23,BSD,AT3G24820,Nucleus,Chromosome
+AT5G50320,p05-r13-c24,GNAT,HAC8,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT5G46880,p05-r14-c01,HB,HDG5,Nucleus,"Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT4G12620,p05-r14-c02,PHD,ATORC1B,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT1G07530,p05-r14-c03,GRAS,ATGRAS2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G33290,p05-r14-c04,SET,SUVH2,Nucleus,Chromosome
+AT1G52150,p05-r14-c05,HB,ATHB15,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G33240,p05-r14-c06,TRIHELIX,GTL1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G30490,p05-r14-c07,HB,ATHB9,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G45880,p05-r14-c08,BES1,BMY4,Nucleus,Chromosome
+AT1G59750,p05-r14-c09,ARF,ARF1,Nucleus,Chromosome
+AT3G13682,p05-r14-c10,SWI/SNF-SWI3,LDL2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G05380,p05-r14-c11,MYB-related,ALY2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G78280,p05-r14-c12,JUMONJI,AT1G78280,Cytoplasm,"Cytoplasm, cytosol"
+AT1G30810,p05-r14-c13,JUMONJI,JMJ18,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G27110,p05-r14-c14,FAR1,FRS3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT4G34430,p05-r14-c15,MYB-related,ATSWI3D,Nucleus,Chromosome
+AT1G09710,p05-r14-c16,MYB-related,AT1G09710,Nucleus,Chromosome
+AT1G79840,p05-r14-c17,HB,GL2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G09770,p05-r14-c18,MYB,ATCDC5,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G18830,p05-r14-c19,SBP,SPL7,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G21700,p05-r14-c20,MYB-related,SWI3C,Nucleus,Chromosome
+AT5G66630,p05-r14-c21,Orphans,DAR5,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G46530,p05-r14-c22,ARF,ARF11,Nucleus,Chromosome
+AT2G35940,p05-r14-c23,HB,EDA29,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G23150,p05-r14-c24,Orphans,ETR2,Endoplasmic,Endoplasmic reticulum membrane
+AT5G35330,p05-r15-c01,ND,ATMBD2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G75540,p05-r15-c02,Orphans,AtBBX21,Nucleus,Chromosome
+AT2G47700,p05-r15-c03,ND,RFI2,Nucleus,Chromosome
+AT4G11400,p05-r15-c04,ARID,AT4G11400,Nucleus,Chromosome
+AT4G24060,p05-r15-c05,C2C2-DOF,AT4G24060,Nucleus,Chromosome
+AT2G46790,p05-r15-c06,Pseudo,PRR9,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G05900,p05-r15-c07,SET,SUVH10,Nucleus,Chromosome
+AT5G06100,p05-r15-c08,MYB,ATMYB33,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Nucleus, PML body; Chromosome"
+AT1G11510,p05-r15-c09,GeBP,AT1G11510,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G02230,p05-r15-c10,NAC,ANAC004,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G51980,p05-r15-c11,C3H,AT5G51980,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G14225,p05-r15-c12,zf-AN1,AT4G14225,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G17180,p05-r15-c13,C2H2,DAZ1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G39810,p05-r15-c14,MADS,AGL98,Nucleus,Chromosome
+AT3G55210,p05-r15-c15,NAC,ANAC063,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G17980,p05-r15-c16,NAC,NAC071,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G61470,p05-r15-c17,C2H2,AT5G61470,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT1G25310,p05-r15-c18,bHLH,MEE8,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G05630,p05-r15-c19,ND,AT4G05630,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G33500,p05-r15-c20,C2C2-CO-like,BBX12,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT4G31615,p05-r15-c21,ABI3-VP1,REM35,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT3G10113,p05-r15-c22,MYB-related,AT3G10113,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G24120,p05-r15-c23,SIGMA70-like,SIGE,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma"
+AT4G25410,p05-r15-c24,bHLH,AT4G25410,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G45300,p05-r16-c01,BES1,BAM8,Nucleus,Chromosome
+AT2G41450,p05-r16-c02,GNAT,AT2G41450,Nucleus,Chromosome
+AT4G20400,p05-r16-c03,JUMONJI,JMJ14,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G65910,p05-r16-c04,NAC,NAC028,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G44430,p05-r16-c05,MYB-related,AT2G44430,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G23380,p05-r16-c06,SET,CLF,Nucleus,Chromosome
+AT2G28450,p05-r16-c07,C3H,AT2G28450,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G24190,p05-r16-c08,Orphans,ATSIN3,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G51230,p05-r16-c09,C2H2,CYR1,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G15020,p05-r16-c10,Orphans,SNL2,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT2G18090,p05-r16-c11,SWI/SNF-BAF60b,AT2G18090,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Chromosome"
+AT5G41580,p05-r16-c12,zf-MIZ,PIAL2,Nucleus,Chromosome
+AT1G32810,p05-r16-c13,PHD,AT1G32810,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G16780,p05-r16-c14,SART-1,DOT2,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT5G52170,p05-r16-c15,HB,HDG7,Nucleus,"Nucleus, nucleolus; Nucleus, nucleoplasm; Nucleus speckle; Chromosome"
+AT2G38950,p05-r16-c16,JUMONJI,AT2G38950,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G65490,p05-r16-c17,SGT1,AT5G65490,Cytoplasm,"Cytoplasm, cytoskeleton"
+AT2G19260,p05-r16-c18,PHD,AT2G19260,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT5G04940,p05-r16-c19,SET,SUVH1,Nucleus,Chromosome
+AT5G08630,p05-r16-c20,DDT,AT5G08630,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G04050,p05-r16-c21,SET,SUVR1,Nucleus,Chromosome
+AT3G05670,p05-r16-c22,PHD,AT3G05670,Nucleus,"Nucleus, nucleolus; Chromosome"
+AT1G30460,p05-r16-c23,C3H,ATCPSF30,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+AT2G40950,p05-r16-c24,bZIP,BZIP17,Endoplasmic,Endoplasmic reticulum membrane
+AT2G30470,p06-r01-c01,ABI3-VP1,VAL1,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r01-c02,EV,EV,-,-
+AT1G20980,p06-r01-c03,SBP,FBR6,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r01-c04,EV,EV,-,-
+AT1G48310,p06-r01-c05,SNF2,CHA18,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r01-c06,EV,EV,-,-
+AT1G03750,p06-r01-c07,SNF2,CHR9,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r01-c08,EV,EV,-,-
+AT1G11950,p06-r01-c09,JUMONJI,AT1G11950,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r01-c10,EV,EV,-,-
+AT1G66340,p06-r01-c11,Orphans,ETR,Endoplasmic,Endoplasmic reticulum membrane
+EV,p06-r01-c12,EV,EV,-,-
+AT1G77300,p06-r01-c13,SET,CCR1,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r01-c14,EV,EV,-,-
+AT1G79000,p06-r01-c15,TAZ,PCAT2,Nucleus,Chromosome
+EV,p06-r01-c16,EV,EV,-,-
+AT2G13370,p06-r01-c17,SNF2,CHR5,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r01-c18,EV,EV,-,-
+AT2G31650,p06-r01-c19,PHD,ATX1,Nucleus,Chromosome
+EV,p06-r01-c20,EV,EV,-,-
+AT3G22170,p06-r01-c21,FAR1,FHY3,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r01-c22,EV,EV,-,-
+AT5G45050,p06-r01-c23,WRKY,WRKY16,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r01-c24,EV,EV,-,-
+EV,p06-r02-c01,EV,EV,-,-
+EV,p06-r02-c02,EV,EV,-,-
+EV,p06-r02-c03,EV,EV,-,-
+EV,p06-r02-c04,EV,EV,-,-
+EV,p06-r02-c05,EV,EV,-,-
+EV,p06-r02-c06,EV,EV,-,-
+EV,p06-r02-c07,EV,EV,-,-
+EV,p06-r02-c08,EV,EV,-,-
+EV,p06-r02-c09,EV,EV,-,-
+EV,p06-r02-c10,EV,EV,-,-
+EV,p06-r02-c11,EV,EV,-,-
+EV,p06-r02-c12,EV,EV,-,-
+EV,p06-r02-c13,EV,EV,-,-
+EV,p06-r02-c14,EV,EV,-,-
+EV,p06-r02-c15,EV,EV,-,-
+EV,p06-r02-c16,EV,EV,-,-
+EV,p06-r02-c17,EV,EV,-,-
+EV,p06-r02-c18,EV,EV,-,-
+EV,p06-r02-c19,EV,EV,-,-
+EV,p06-r02-c20,EV,EV,-,-
+EV,p06-r02-c21,EV,EV,-,-
+EV,p06-r02-c22,EV,EV,-,-
+EV,p06-r02-c23,EV,EV,-,-
+EV,p06-r02-c24,EV,EV,-,-
+AT5G56930,p06-r03-c01,C3H,EMB1789,Nucleus,Chromosome
+EV,p06-r03-c02,EV,EV,-,-
+AT5G63420,p06-r03-c03,TRIHELIX,emb2746,Plastid,"Plastid, chloroplast membrane; Plastid, chloroplast stroma; Plastid, chloroplast thylakoid membrane"
+EV,p06-r03-c04,EV,EV,-,-
+AT3G12270,p06-r03-c05,C2H2,PRMT3,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r03-c06,EV,EV,-,-
+AT1G76880,p06-r03-c07,TRIHELIX,DF1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+EV,p06-r03-c08,EV,EV,-,-
+AT2G41900,p06-r03-c09,C3H,OXS2,Nucleus,Chromosome
+EV,p06-r03-c10,EV,EV,-,-
+AT5G07400,p06-r03-c11,FHA,AT5G07400,Cytoplasm,"Cytoplasm, cytoskeleton"
+EV,p06-r03-c12,EV,EV,-,-
+AT3G21430,p06-r03-c13,MYB-related,ALY3,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r03-c14,EV,EV,-,-
+AT5G18960,p06-r03-c15,FAR1,FRS12,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r03-c16,EV,EV,-,-
+AT3G06250,p06-r03-c17,FAR1,FRS7,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r03-c18,EV,EV,-,-
+AT1G76320,p06-r03-c19,FAR1,FRS4,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r03-c20,EV,EV,-,-
+AT5G11510,p06-r03-c21,MYB,AtMYB3R4,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r03-c22,EV,EV,-,-
+AT2G22740,p06-r03-c23,SET,SDG23,Nucleus,Chromosome
+EV,p06-r03-c24,EV,EV,-,-
+EV,p06-r04-c01,EV,EV,-,-
+EV,p06-r04-c02,EV,EV,-,-
+EV,p06-r04-c03,EV,EV,-,-
+EV,p06-r04-c04,EV,EV,-,-
+EV,p06-r04-c05,EV,EV,-,-
+EV,p06-r04-c06,EV,EV,-,-
+EV,p06-r04-c07,EV,EV,-,-
+EV,p06-r04-c08,EV,EV,-,-
+EV,p06-r04-c09,EV,EV,-,-
+EV,p06-r04-c10,EV,EV,-,-
+EV,p06-r04-c11,EV,EV,-,-
+EV,p06-r04-c12,EV,EV,-,-
+EV,p06-r04-c13,EV,EV,-,-
+EV,p06-r04-c14,EV,EV,-,-
+EV,p06-r04-c15,EV,EV,-,-
+EV,p06-r04-c16,EV,EV,-,-
+EV,p06-r04-c17,EV,EV,-,-
+EV,p06-r04-c18,EV,EV,-,-
+EV,p06-r04-c19,EV,EV,-,-
+EV,p06-r04-c20,EV,EV,-,-
+EV,p06-r04-c21,EV,EV,-,-
+EV,p06-r04-c22,EV,EV,-,-
+EV,p06-r04-c23,EV,EV,-,-
+EV,p06-r04-c24,EV,EV,-,-
+AT3G62240,p06-r05-c01,C2H2,AT3G62240,Nucleus,Chromosome
+EV,p06-r05-c02,EV,EV,-,-
+AT2G37520,p06-r05-c03,PHD,AT2G37520,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r05-c04,EV,EV,-,-
+AT4G13460,p06-r05-c05,SET,SDG22,Nucleus,Chromosome
+EV,p06-r05-c06,EV,EV,-,-
+AT4G16150,p06-r05-c07,CAMTA,AT4G16150,Nucleus,Chromosome
+EV,p06-r05-c08,EV,EV,-,-
+AT2G31280,p06-r05-c09,bHLH,LL2,Nucleus,Chromosome
+EV,p06-r05-c10,EV,EV,-,-
+AT2G21710,p06-r05-c11,mTERF,EMB2219,Plastid,"Plastid, chloroplast stroma"
+EV,p06-r05-c12,EV,EV,-,-
+AT5G09410,p06-r05-c13,CAMTA,EICBP.B,Cytoplasm,"Cytoplasm, cytoskeleton"
+EV,p06-r05-c14,EV,EV,-,-
+AT2G35160,p06-r05-c15,SET,SUVH5,Nucleus,Chromosome
+EV,p06-r05-c16,EV,EV,-,-
+AT5G24470,p06-r05-c17,Pseudo,APRR5,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r05-c18,EV,EV,-,-
+AT5G02810,p06-r05-c19,Pseudo,APRR7,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r05-c20,EV,EV,-,-
+AT2G46830,p06-r05-c21,MYB-related,CCA1,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r05-c22,EV,EV,-,-
+AT5G61380,p06-r05-c23,Pseudo,PRR1,Nucleus,"Nucleus, nucleolus; Chromosome"
+EV,p06-r05-c24,EV,EV,-,-
+EV,p06-r06-c01,EV,EV,-,-
+EV,p06-r06-c02,EV,EV,-,-
+EV,p06-r06-c03,EV,EV,-,-
+EV,p06-r06-c04,EV,EV,-,-
+EV,p06-r06-c05,EV,EV,-,-
+EV,p06-r06-c06,EV,EV,-,-
+EV,p06-r06-c07,EV,EV,-,-
+EV,p06-r06-c08,EV,EV,-,-
+EV,p06-r06-c09,EV,EV,-,-
+EV,p06-r06-c10,EV,EV,-,-
+EV,p06-r06-c11,EV,EV,-,-
+EV,p06-r06-c12,EV,EV,-,-
+EV,p06-r06-c13,EV,EV,-,-
+EV,p06-r06-c14,EV,EV,-,-
+EV,p06-r06-c15,EV,EV,-,-
+EV,p06-r06-c16,EV,EV,-,-
+EV,p06-r06-c17,EV,EV,-,-
+EV,p06-r06-c18,EV,EV,-,-
+EV,p06-r06-c19,EV,EV,-,-
+EV,p06-r06-c20,EV,EV,-,-
+EV,p06-r06-c21,EV,EV,-,-
+EV,p06-r06-c22,EV,EV,-,-
+EV,p06-r06-c23,EV,EV,-,-
+EV,p06-r06-c24,EV,EV,-,-
+AT1G35460,p06-r07-c01,bHLH,FBH1,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Chromosome"
+EV,p06-r07-c02,EV,EV,-,-
+AT5G54680,p06-r07-c03,bHLH,ILR3,Nucleus,"Nucleus, nucleolus; Nucleus speckle; Nucleus, PML body; Chromosome"
+EV,p06-r07-c04,EV,EV,-,-
+EV,p06-r07-c05,EV,EV,-,-
+EV,p06-r07-c06,EV,EV,-,-
+EV,p06-r07-c07,EV,EV,-,-
+EV,p06-r07-c08,EV,EV,-,-
+EV,p06-r07-c09,EV,EV,-,-
+EV,p06-r07-c10,EV,EV,-,-
+EV,p06-r07-c11,EV,EV,-,-
+EV,p06-r07-c12,EV,EV,-,-
+EV,p06-r07-c13,EV,EV,-,-
+EV,p06-r07-c14,EV,EV,-,-
+EV,p06-r07-c15,EV,EV,-,-
+EV,p06-r07-c16,EV,EV,-,-
+EV,p06-r07-c17,EV,EV,-,-
+EV,p06-r07-c18,EV,EV,-,-
+EV,p06-r07-c19,EV,EV,-,-
+EV,p06-r07-c20,EV,EV,-,-
+EV,p06-r07-c21,EV,EV,-,-
+EV,p06-r07-c22,EV,EV,-,-
+EV,p06-r07-c23,EV,EV,-,-
+EV,p06-r07-c24,EV,EV,-,-
+EV,p06-r08-c01,EV,EV,-,-
+EV,p06-r08-c02,EV,EV,-,-
+EV,p06-r08-c03,EV,EV,-,-
+EV,p06-r08-c04,EV,EV,-,-
+EV,p06-r08-c05,EV,EV,-,-
+EV,p06-r08-c06,EV,EV,-,-
+EV,p06-r08-c07,EV,EV,-,-
+EV,p06-r08-c08,EV,EV,-,-
+EV,p06-r08-c09,EV,EV,-,-
+EV,p06-r08-c10,EV,EV,-,-
+EV,p06-r08-c11,EV,EV,-,-
+EV,p06-r08-c12,EV,EV,-,-
+EV,p06-r08-c13,EV,EV,-,-
+EV,p06-r08-c14,EV,EV,-,-
+EV,p06-r08-c15,EV,EV,-,-
+EV,p06-r08-c16,EV,EV,-,-
+EV,p06-r08-c17,EV,EV,-,-
+EV,p06-r08-c18,EV,EV,-,-
+EV,p06-r08-c19,EV,EV,-,-
+EV,p06-r08-c20,EV,EV,-,-
+EV,p06-r08-c21,EV,EV,-,-
+EV,p06-r08-c22,EV,EV,-,-
+EV,p06-r08-c23,EV,EV,-,-
+EV,p06-r08-c24,EV,EV,-,-
+EV,p06-r09-c01,EV,EV,-,-
+EV,p06-r09-c02,EV,EV,-,-
+EV,p06-r09-c03,EV,EV,-,-
+EV,p06-r09-c04,EV,EV,-,-
+EV,p06-r09-c05,EV,EV,-,-
+EV,p06-r09-c06,EV,EV,-,-
+EV,p06-r09-c07,EV,EV,-,-
+EV,p06-r09-c08,EV,EV,-,-
+EV,p06-r09-c09,EV,EV,-,-
+EV,p06-r09-c10,EV,EV,-,-
+EV,p06-r09-c11,EV,EV,-,-
+EV,p06-r09-c12,EV,EV,-,-
+EV,p06-r09-c13,EV,EV,-,-
+EV,p06-r09-c14,EV,EV,-,-
+EV,p06-r09-c15,EV,EV,-,-
+EV,p06-r09-c16,EV,EV,-,-
+EV,p06-r09-c17,EV,EV,-,-
+EV,p06-r09-c18,EV,EV,-,-
+EV,p06-r09-c19,EV,EV,-,-
+EV,p06-r09-c20,EV,EV,-,-
+EV,p06-r09-c21,EV,EV,-,-
+EV,p06-r09-c22,EV,EV,-,-
+EV,p06-r09-c23,EV,EV,-,-
+EV,p06-r09-c24,EV,EV,-,-
+EV,p06-r10-c01,EV,EV,-,-
+EV,p06-r10-c02,EV,EV,-,-
+EV,p06-r10-c03,EV,EV,-,-
+EV,p06-r10-c04,EV,EV,-,-
+EV,p06-r10-c05,EV,EV,-,-
+EV,p06-r10-c06,EV,EV,-,-
+EV,p06-r10-c07,EV,EV,-,-
+EV,p06-r10-c08,EV,EV,-,-
+EV,p06-r10-c09,EV,EV,-,-
+EV,p06-r10-c10,EV,EV,-,-
+EV,p06-r10-c11,EV,EV,-,-
+EV,p06-r10-c12,EV,EV,-,-
+EV,p06-r10-c13,EV,EV,-,-
+EV,p06-r10-c14,EV,EV,-,-
+EV,p06-r10-c15,EV,EV,-,-
+EV,p06-r10-c16,EV,EV,-,-
+EV,p06-r10-c17,EV,EV,-,-
+EV,p06-r10-c18,EV,EV,-,-
+EV,p06-r10-c19,EV,EV,-,-
+EV,p06-r10-c20,EV,EV,-,-
+EV,p06-r10-c21,EV,EV,-,-
+EV,p06-r10-c22,EV,EV,-,-
+EV,p06-r10-c23,EV,EV,-,-
+EV,p06-r10-c24,EV,EV,-,-
+EV,p06-r11-c01,EV,EV,-,-
+EV,p06-r11-c02,EV,EV,-,-
+EV,p06-r11-c03,EV,EV,-,-
+EV,p06-r11-c04,EV,EV,-,-
+EV,p06-r11-c05,EV,EV,-,-
+EV,p06-r11-c06,EV,EV,-,-
+EV,p06-r11-c07,EV,EV,-,-
+EV,p06-r11-c08,EV,EV,-,-
+EV,p06-r11-c09,EV,EV,-,-
+EV,p06-r11-c10,EV,EV,-,-
+EV,p06-r11-c11,EV,EV,-,-
+EV,p06-r11-c12,EV,EV,-,-
+EV,p06-r11-c13,EV,EV,-,-
+EV,p06-r11-c14,EV,EV,-,-
+EV,p06-r11-c15,EV,EV,-,-
+EV,p06-r11-c16,EV,EV,-,-
+EV,p06-r11-c17,EV,EV,-,-
+EV,p06-r11-c18,EV,EV,-,-
+EV,p06-r11-c19,EV,EV,-,-
+EV,p06-r11-c20,EV,EV,-,-
+EV,p06-r11-c21,EV,EV,-,-
+EV,p06-r11-c22,EV,EV,-,-
+EV,p06-r11-c23,EV,EV,-,-
+EV,p06-r11-c24,EV,EV,-,-
+EV,p06-r12-c01,EV,EV,-,-
+EV,p06-r12-c02,EV,EV,-,-
+EV,p06-r12-c03,EV,EV,-,-
+EV,p06-r12-c04,EV,EV,-,-
+EV,p06-r12-c05,EV,EV,-,-
+EV,p06-r12-c06,EV,EV,-,-
+EV,p06-r12-c07,EV,EV,-,-
+EV,p06-r12-c08,EV,EV,-,-
+EV,p06-r12-c09,EV,EV,-,-
+EV,p06-r12-c10,EV,EV,-,-
+EV,p06-r12-c11,EV,EV,-,-
+EV,p06-r12-c12,EV,EV,-,-
+EV,p06-r12-c13,EV,EV,-,-
+EV,p06-r12-c14,EV,EV,-,-
+EV,p06-r12-c15,EV,EV,-,-
+EV,p06-r12-c16,EV,EV,-,-
+EV,p06-r12-c17,EV,EV,-,-
+EV,p06-r12-c18,EV,EV,-,-
+EV,p06-r12-c19,EV,EV,-,-
+EV,p06-r12-c20,EV,EV,-,-
+EV,p06-r12-c21,EV,EV,-,-
+EV,p06-r12-c22,EV,EV,-,-
+EV,p06-r12-c23,EV,EV,-,-
+EV,p06-r12-c24,EV,EV,-,-
+EV,p06-r13-c01,EV,EV,-,-
+EV,p06-r13-c02,EV,EV,-,-
+EV,p06-r13-c03,EV,EV,-,-
+EV,p06-r13-c04,EV,EV,-,-
+EV,p06-r13-c05,EV,EV,-,-
+EV,p06-r13-c06,EV,EV,-,-
+EV,p06-r13-c07,EV,EV,-,-
+EV,p06-r13-c08,EV,EV,-,-
+EV,p06-r13-c09,EV,EV,-,-
+EV,p06-r13-c10,EV,EV,-,-
+EV,p06-r13-c11,EV,EV,-,-
+EV,p06-r13-c12,EV,EV,-,-
+EV,p06-r13-c13,EV,EV,-,-
+EV,p06-r13-c14,EV,EV,-,-
+EV,p06-r13-c15,EV,EV,-,-
+EV,p06-r13-c16,EV,EV,-,-
+EV,p06-r13-c17,EV,EV,-,-
+EV,p06-r13-c18,EV,EV,-,-
+EV,p06-r13-c19,EV,EV,-,-
+EV,p06-r13-c20,EV,EV,-,-
+EV,p06-r13-c21,EV,EV,-,-
+EV,p06-r13-c22,EV,EV,-,-
+EV,p06-r13-c23,EV,EV,-,-
+EV,p06-r13-c24,EV,EV,-,-
+EV,p06-r14-c01,EV,EV,-,-
+EV,p06-r14-c02,EV,EV,-,-
+EV,p06-r14-c03,EV,EV,-,-
+EV,p06-r14-c04,EV,EV,-,-
+EV,p06-r14-c05,EV,EV,-,-
+EV,p06-r14-c06,EV,EV,-,-
+EV,p06-r14-c07,EV,EV,-,-
+EV,p06-r14-c08,EV,EV,-,-
+EV,p06-r14-c09,EV,EV,-,-
+EV,p06-r14-c10,EV,EV,-,-
+EV,p06-r14-c11,EV,EV,-,-
+EV,p06-r14-c12,EV,EV,-,-
+EV,p06-r14-c13,EV,EV,-,-
+EV,p06-r14-c14,EV,EV,-,-
+EV,p06-r14-c15,EV,EV,-,-
+EV,p06-r14-c16,EV,EV,-,-
+EV,p06-r14-c17,EV,EV,-,-
+EV,p06-r14-c18,EV,EV,-,-
+EV,p06-r14-c19,EV,EV,-,-
+EV,p06-r14-c20,EV,EV,-,-
+EV,p06-r14-c21,EV,EV,-,-
+EV,p06-r14-c22,EV,EV,-,-
+EV,p06-r14-c23,EV,EV,-,-
+EV,p06-r14-c24,EV,EV,-,-
+EV,p06-r15-c01,EV,EV,-,-
+EV,p06-r15-c02,EV,EV,-,-
+EV,p06-r15-c03,EV,EV,-,-
+EV,p06-r15-c04,EV,EV,-,-
+EV,p06-r15-c05,EV,EV,-,-
+EV,p06-r15-c06,EV,EV,-,-
+EV,p06-r15-c07,EV,EV,-,-
+EV,p06-r15-c08,EV,EV,-,-
+EV,p06-r15-c09,EV,EV,-,-
+EV,p06-r15-c10,EV,EV,-,-
+EV,p06-r15-c11,EV,EV,-,-
+EV,p06-r15-c12,EV,EV,-,-
+EV,p06-r15-c13,EV,EV,-,-
+EV,p06-r15-c14,EV,EV,-,-
+EV,p06-r15-c15,EV,EV,-,-
+EV,p06-r15-c16,EV,EV,-,-
+EV,p06-r15-c17,EV,EV,-,-
+EV,p06-r15-c18,EV,EV,-,-
+EV,p06-r15-c19,EV,EV,-,-
+EV,p06-r15-c20,EV,EV,-,-
+EV,p06-r15-c21,EV,EV,-,-
+EV,p06-r15-c22,EV,EV,-,-
+EV,p06-r15-c23,EV,EV,-,-
+EV,p06-r15-c24,EV,EV,-,-
+EV,p06-r16-c01,EV,EV,-,-
+EV,p06-r16-c02,EV,EV,-,-
+EV,p06-r16-c03,EV,EV,-,-
+EV,p06-r16-c04,EV,EV,-,-
+EV,p06-r16-c05,EV,EV,-,-
+EV,p06-r16-c06,EV,EV,-,-
+EV,p06-r16-c07,EV,EV,-,-
+EV,p06-r16-c08,EV,EV,-,-
+EV,p06-r16-c09,EV,EV,-,-
+EV,p06-r16-c10,EV,EV,-,-
+EV,p06-r16-c11,EV,EV,-,-
+EV,p06-r16-c12,EV,EV,-,-
+EV,p06-r16-c13,EV,EV,-,-
+EV,p06-r16-c14,EV,EV,-,-
+EV,p06-r16-c15,EV,EV,-,-
+EV,p06-r16-c16,EV,EV,-,-
+EV,p06-r16-c17,EV,EV,-,-
+EV,p06-r16-c18,EV,EV,-,-
+EV,p06-r16-c19,EV,EV,-,-
+EV,p06-r16-c20,EV,EV,-,-
+EV,p06-r16-c21,EV,EV,-,-
+EV,p06-r16-c22,EV,EV,-,-
+EV,p06-r16-c23,EV,EV,-,-
+EV,p06-r16-c24,EV,EV,-,-
